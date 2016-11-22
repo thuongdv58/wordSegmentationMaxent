@@ -1,0 +1,7131 @@
+<Document>
+	<Entry>
+		<HeadWord>o</HeadWord>
+		<Morphology>
+			<WordType>symbol</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>con chữ thứ mười bảy của bảng chữ cái chữ quốc ngữ</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>o</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Person</CategorialMeaning>
+			</LogicalConstraint>
+			<def>cô</def>
+			<exam>ông chú bà o ~ o bán dầu</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>O</HeadWord>
+		<Morphology>
+			<WordType>abbreviation</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Gas</CategorialMeaning>
+			</LogicalConstraint>
+			<def>kí hiệu hoá học của nguyên tố oxygen</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>o bế</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vt</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Dob"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Dob"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<Before>R: đã, cứ</Before>
+		</Syntactic>
+		<Semantic>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Agt"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Dob"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>chăm chút hoặc nâng niu, chiều chuộng quá mức</def>
+			<exam>cấp trên đã o bế cho anh</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>o ép</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Order</CategorialMeaning>
+			</LogicalConstraint>
+			<def>bức bách, dồn ép vào thế bí, làm cho buộc phải theo, phải chấp nhận</def>
+			<exam>bị o ép đến mức phải bỏ làng</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>o o</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ao</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Sound</CategorialMeaning>
+			</LogicalConstraint>
+			<def>từ mô phỏng tiếng gà gáy hay tiếng người ngáy, phát ra đều và liên tiếp</def>
+			<exam>ngáy o o</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ó</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: bầy, chú, con, đàn, lũ</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Bird</CategorialMeaning>
+			</LogicalConstraint>
+			<def>chim thuộc loại diều hâu, thường gặp về mùa đông ở các sông hay ao hồ</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ó</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>kêu, la lên một cách ầm ĩ</def>
+			<exam>kêu ó ~ ó lên như giặc!</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ó cá</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: bầy, chú, con, đàn, lũ</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Bird</CategorialMeaning>
+			</LogicalConstraint>
+			<def>chim ăn thịt cỡ lớn, thường sống ở vùng biển, trông giống diều hâu, chuyên bắt cá</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ọ ẹ</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>từ mô phỏng tiếng trẻ sơ sinh phát ra khi cựa mình thức giấc</def>
+			<exam>đứa trẻ ọ ẹ mấy tiếng rồi lại ngủ</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oa oa</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ao</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Sound</CategorialMeaning>
+			</LogicalConstraint>
+			<feat att="semanticRole" val="Agt"/>
+			<feat att="subjectMeaning" val="Person"/>
+			<def>như <i>oe oe</i>
+			</def>
+			<exam>đứa bé oa oa khóc</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oà</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>đột nhiên bật lên thành tiếng thật to</def>
+			<exam>oà khóc nức nở ~ cả bọn cười oà lên</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oách</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+			<Before>R: rất</Before>
+			<After>R: thật</After>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+				<Synonym>hách</Synonym>
+			</LogicalConstraint>
+			<def>có dáng vẻ bề ngoài trông rất oai và sang trọng</def>
+			<exam>diện thật oách ~ đi đâu mà oách thế?</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oạch</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ao</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Sound</CategorialMeaning>
+			</LogicalConstraint>
+			<def>từ mô phỏng tiếng người ngã mạnh xuống đất</def>
+			<exam>ngã oạch một cái</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oai</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+			<Before>R: rất</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+				<Synonym>uy</Synonym>
+			</LogicalConstraint>
+			<def>có dáng vẻ của người có quyền lực khiến cho người ta phải nể sợ</def>
+			<exam>oai trời ~ diện quân phục trông rất oai ~ nói vài câu cho oai</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oai hùng</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+			<Before>R: rất</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>hào hùng, mạnh mẽ, đầy khí thế</def>
+			<exam>những trang sử oai hùng ~ chiến thắng oai hùng</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oai nghiêm</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+			<Before>R: rất</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>như <i>uy nghiêm</i>
+			</def>
+			<exam>tướng mạo oai nghiêm</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oai oái</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>O</Category>
+			<SubCategory>O</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>như <i>oái</i> [nhưng ý liên tiếp]</def>
+			<exam>kêu oai oái</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oai phong</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+			<Before>R: rất</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+				<Synonym>uy phong</Synonym>
+			</LogicalConstraint>
+			<def>có dáng vẻ thể hiện một uy lực mạnh mẽ, khiến cho người khác phải kính nể</def>
+			<exam>dáng vẻ oai phong ~ oai phong lẫm liệt</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oai vệ</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+			<Before>R: rất</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+				<Synonym>bệ vệ, đường bệ</Synonym>
+			</LogicalConstraint>
+			<def>có vẻ trang nghiêm, đường bệ</def>
+			<exam>dáng đi rất oai vệ</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oải</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ai</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>ở trạng thái đã bị duỗi thẳng ra hay trễ xuống, không còn giữ được hình dạng uốn cong như trước</def>
+			<exam>lưỡi câu đã oải</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oải</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>mệt rã rời</def>
+			<exam>bắp thịt oải ra ~ làm oải cả người</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oái</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>O</Category>
+			<SubCategory>O</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>tiếng thốt to lên khi bị đau bất ngờ hay sợ đột ngột</def>
+			<exam>kêu oái một tiếng</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oái oăm</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+				<Synonym>éo le, trớ trêu</Synonym>
+			</LogicalConstraint>
+			<def>trái với bình thường một cách kì quặc</def>
+			<exam>căn bệnh oái oăm ~ cảnh ngộ oái oăm</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oàm oạp</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ao</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Sound</CategorialMeaning>
+			</LogicalConstraint>
+			<def>như <i>ì oạp</i>
+			</def>
+			<exam>sóng vỗ bờ oàm oạp</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oan</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+				<Synonym>oan uổng</Synonym>
+			</LogicalConstraint>
+			<def>bị quy cho tội mà bản thân không gây nên, phải chịu sự trừng phạt mà bản thân không đáng phải chịu</def>
+			<exam>nghi oan ~ bị mắng oan ~ viết đơn kêu oan</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oan gia</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+			</LogicalConstraint>
+			<def>tai vạ ở đâu bỗng dưng phải gánh chịu một cách oan uổng</def>
+			<exam>chơi với nó có ngày oan gia</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oan hồn</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+			</LogicalConstraint>
+			<def>hồn của người bị chết oan</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oan khổ</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+				<Synonym>oan khốc</Synonym>
+			</LogicalConstraint>
+			<def>đau khổ vì bị oan ức</def>
+			<exam>chịu biết bao oan khổ ~ "Những là oan khổ lưu ly, Chờ cho hết kiếp, còn gì là thân?" (TKiều)</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oan khuất</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>oan mà không thể giãi bày ra được</def>
+			<exam>nỗi oan khuất ~ bị oan khuất</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oan nghiệt</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+			</LogicalConstraint>
+			<def>như <i>oan trái</i>
+			</def>
+			<exam>chịu bao oan nghiệt</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oan trái</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+				<Synonym>oan nghiệt</Synonym>
+			</LogicalConstraint>
+			<def>những điều phải gánh chịu trong kiếp này để trả cho những điều ác đã làm ở kiếp trước, theo quan niệm của đạo Phật [nói tổng quát]</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oan trái</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>ngang trái khiến cho phải đau khổ, bất hạnh</def>
+			<exam>mối tình oan trái ~ lâm vào cảnh ngộ oan trái</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oan uổng</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>như <i>oan</i> [nhưng nghĩa mạnh hơn; nói khái quát]</def>
+			<exam>chết oan uổng ~ phạt như vậy thì oan uổng quá!</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oan ức</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+				<Synonym>oan khiên, oan uổng</Synonym>
+			</LogicalConstraint>
+			<def>oan đến mức cảm thấy uất ức mà không làm gì được</def>
+			<exam>nỗi oan ức ~ bị kết tội một cách oan ức</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oản</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Dish</CategorialMeaning>
+			</LogicalConstraint>
+			<def>xôi hoặc bột bánh khảo được nén chặt vào khuôn, đóng thành khối nhỏ hình nón cụt để cúng</def>
+			<exam>đóng oản ~ khư khư như từ giữ oản (tng)</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oán</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vt</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Dob"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Dob"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<Before>R: vẫn, rất</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Emotion</CategorialMeaning>
+				<Synonym>hiềm oán</Synonym>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Agt"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Dob"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>giận nung nấu trong lòng kẻ đã hại mình</def>
+			<exam>oán kẻ phản bội đến tận xương tuỷ ~ làm ơn nên oán (tng)</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oán ghét</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vt</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Dob"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Dob"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<Before>R: rất</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Emotion</CategorialMeaning>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Agt"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Dob"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>oán giận và căm ghét</def>
+			<exam>oán ghét bọn giặc đến tận xương tuỷ</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oán giận</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vt</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Dob"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Dob"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<Before>R: rất</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Emotion</CategorialMeaning>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Agt"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Dob"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>căm giận và uất ức</def>
+			<exam>oán giận kẻ khủng bố bạo tàn</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oán hận</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vt</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Dob"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Dob"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<Before>R: cực kì, rất</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Emotion</CategorialMeaning>
+				<Synonym>oán hờn</Synonym>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Agt"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Dob"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>căm giận sâu sắc, chất chứa trong lòng</def>
+			<exam>người dân oán hận lũ cướp nước</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oán hờn</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vt</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Dob"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Dob"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<Before>R: cực kì, rất</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Emotion</CategorialMeaning>
+				<Synonym>căm hờn, oán hận</Synonym>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Agt"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Dob"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>uất ức và oán giận sâu sắc, nung nấu trong lòng</def>
+			<exam>oán hờn kẻ bán nước</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oán thán</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vt</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Dob"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Dob"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<Before>R: đã, rất, cực kì</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Emotion</CategorialMeaning>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Agt"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Dob"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>oán giận, biểu hiện ra bằng những lời ta thán vì không thể kìm nén được trong lòng</def>
+			<exam>dân làng oán thán bè lũ bán nước, bán dân</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oán trách</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vt</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Dob"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Dob"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<Before>R: đã, vẫn, cứ, rất</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>CognitiveAct</CategorialMeaning>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Agt"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Dob"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>tức giận, biểu hiện ra bằng những lời trách móc</def>
+			<exam>chị oán trách tôi đã không đến dự đám cưới chị</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oang oác</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>từ mô phỏng tiếng gà kêu to khi gặp nguy hiểm</def>
+			<exam>tiếng gà kêu oang oác</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oang oác</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>như <i>oang oang</i> [nhưng nghĩa mạnh hơn]</def>
+			<exam>giọng oang oác</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oang oang</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<Synonym>choang choang, oang oác</Synonym>
+			</LogicalConstraint>
+			<def>từ gợi tả âm thanh phát ra to và vang xa một cách liên tiếp</def>
+			<exam>cười nói oang oang</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oàng</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ao</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Sound</CategorialMeaning>
+			</LogicalConstraint>
+			<def>từ mô phỏng tiếng nổ to và âm vang như tiếng súng đại bác</def>
+			<exam>nổ đánh oàng một cái</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oanh</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: bầy, chú, con, đàn, lũ</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Bird</CategorialMeaning>
+			</LogicalConstraint>
+			<def>chim vàng anh, về mặt có tiếng hót hay</def>
+			<exam>"Lơ thơ tơ liễu buông mành, Con oanh học nói trên cành mỉa mai." (TKiều)</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oanh liệt</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+			<Before>R: rất</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>có tiếng tăm lừng lẫy, vang dội khắp nơi</def>
+			<exam>chiến công oanh liệt ~ thời oanh liệt</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oanh tạc</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vt</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Obj"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Obj"/>
+				<feat att="syntacticConstituent" val="PP"/>
+			</SyntacticArgument>
+			<Before>R: đã, đang</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Act</CategorialMeaning>
+				<Synonym>oanh kích</Synonym>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Theme"/>
+					<feat att="subjectMeaning" val="Weapon"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Obj"/>
+					<feat att="semanticRole" val="Lo"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>dùng hoả lực mạnh như ném bom, bắn pháo lớn để đánh phá</def>
+			<exam>máy bay địch oanh tạc sân bay Tân Sơn Nhất</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oành oạch</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ao</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Sound</CategorialMeaning>
+			</LogicalConstraint>
+			<def>từ mô phỏng tiếng ngã mạnh và liên tiếp xuống nền đất</def>
+			<exam>đường trơn nên trượt ngã oành oạch</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oát</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>UnitOfMetrical</CategorialMeaning>
+				<Synonym>watt</Synonym>
+			</LogicalConstraint>
+			<def>xem <i>watt</i>
+			</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oằn</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vs</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Obj"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Obj"/>
+				<feat att="syntacticConstituent" val="NP, VP, AP"/>
+			</SyntacticArgument>
+			<Before>R: đang</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Change</CategorialMeaning>
+				<Synonym>oặt, quằn</Synonym>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Obj"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>bị cong hẳn đi, thường do phải chịu một lực quá lớn</def>
+			<exam>cành bưởi oằn xuống vì sai quả ~ oằn người đi vì đau đớn</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oằn oại</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<Synonym>quằn quại</Synonym>
+			</LogicalConstraint>
+			<def>vặn mình qua lại, cong người lên rồi lại gập mình xuống vì quá đau đớn</def>
+			<exam>đau bụng oằn oại</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oắt</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>như <i>oắt con</i>
+			</def>
+			<exam>này oắt, mày là con cái nhà ai?</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oắt con</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+				<Synonym>nhãi con, nhóc, nhóc con, oắt</Synonym>
+			</LogicalConstraint>
+			<def>bé, bé con [hàm ý bông đùa hoặc coi thường]</def>
+			<exam>thằng oắt con ~ ê, oắt con, lại đây tao bảo!</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oặt</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vs</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Obj"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Obj"/>
+				<feat att="syntacticConstituent" val="NP, VP, AP"/>
+			</SyntacticArgument>
+			<Before>R: đã</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Change</CategorialMeaning>
+				<Synonym>oằn</Synonym>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Obj"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>bị cong gập xuống vì phải chịu một lực quá lớn</def>
+			<exam>cành cây oặt xuống mặt nước ~ con bé oặt cả người vì bế thằng bé quá mập</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oặt ẹo</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>mềm yếu, yếu ớt đến mức như không thể nào tự giữ thẳng được</def>
+			<exam>thân cây oặt ẹo</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>óc</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: bộ, khối</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>BodyPart</CategorialMeaning>
+				<Synonym>não</Synonym>
+			</LogicalConstraint>
+			<def>khối mềm màu trắng đục ở trong hộp sọ, là cơ sở của hoạt động thần kinh trung ương</def>
+			<exam>mổ lấy máu bầm trong óc ~ tổn thương óc</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>óc</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+			</LogicalConstraint>
+			<def>óc của con người, được coi là biểu tượng của khả năng suy nghĩ, nhận thức [nói khái quát]</def>
+			<exam>giàu óc sáng tạo ~ có óc thẩm mĩ</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>óc</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+			</LogicalConstraint>
+			<def>ý thức, tư tưởng của mỗi người [nói khái quát]</def>
+			<exam>óc cổ hủ ~ óc tư hữu</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>óc ách</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>[bụng] ở trạng thái đầy ứ vì chứa nhiều nước, gây cảm giác khó chịu</def>
+			<exam>bụng óc ách khó chịu</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>óc ách</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ao</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Sound</CategorialMeaning>
+			</LogicalConstraint>
+			<def>từ mô phỏng tiếng như tiếng nước chuyển động trong vật chứa khi bị nhồi lắc</def>
+			<exam>tiếng suối chảy óc ách</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>óc bã đậu</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+			</LogicalConstraint>
+			<def>đầu óc ngu đần, chẳng được tích sự gì [ví như bã đậu là thứ còn lại sau khi chế biến đậu phụ, chỉ dùng làm thức ăn cho lợn; thường dùng làm tiếng chửi rủa]</def>
+			<exam>đồ óc bã đậu!</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>óc bè phái</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+			</LogicalConstraint>
+			<def>khuynh hướng chủ trương hoạt động bè phái, không chịu đoàn kết rộng rãi, gây chia rẽ nội bộ</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>óc đậu</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Dish</CategorialMeaning>
+			</LogicalConstraint>
+			<def>thức ăn làm bằng bột đậu nành không đóng thành khuôn như đậu phụ</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>óc đậu</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Dish</CategorialMeaning>
+			</LogicalConstraint>
+			<def>món ăn làm bằng trứng gà bao bột mì và rán giòn</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ọc</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>như <i>ộc</i>
+			</def>
+			<exam>nôn ọc ra</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ọc ạch</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>[xe cộ, máy móc] ở tình trạng sắp hư hỏng do các bộ phận bị lỏng ra, không còn khớp chặt với nhau, khi chạy phát ra tiếng kêu không êm, không đều</def>
+			<exam>chiếc xe bò ọc ạch leo dốc</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ODA</HeadWord>
+		<Morphology>
+			<WordType>abbreviation</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+			</LogicalConstraint>
+			<def>viện trợ phát triển chính thức</def>
+			<exam>quản lí nguồn vốn ODA</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oe oe</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ao</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Sound</CategorialMeaning>
+				<Synonym>oa oa</Synonym>
+			</LogicalConstraint>
+			<def>từ mô phỏng tiếng khóc to và liên tiếp của trẻ sơ sinh</def>
+			<exam>tiếng trẻ con khóc oe oe</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oe oé</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ao</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Sound</CategorialMeaning>
+			</LogicalConstraint>
+			<def>từ mô phỏng tiếng trẻ con kêu hoặc khóc to và liên tiếp, nghe chói tai</def>
+			<exam>kêu oe oé</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oẻ</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vs</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Obj"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Obj"/>
+				<feat att="syntacticConstituent" val="NP, VP, AP"/>
+			</SyntacticArgument>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Change</CategorialMeaning>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Obj"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>cong trĩu xuống, thường do bị đè nặng</def>
+			<exam>cành bưởi oẻ xuống vì sai quả</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oẹ</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Act</CategorialMeaning>
+			</LogicalConstraint>
+			<def>nôn, mửa</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oẹ</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Act</CategorialMeaning>
+			</LogicalConstraint>
+			<def>phát ra tiếng từ trong cổ họng khi buồn nôn</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>offline</HeadWord>
+		<Morphology>
+			<WordType>loan word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+			<Before>R: đang</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+				<Synonym>ngoại tuyến</Synonym>
+			</LogicalConstraint>
+			<def>xem <i>ngoại tuyến</i>
+			</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ohm</HeadWord>
+		<Morphology>
+			<WordType>loan word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>UnitOfMetrical</CategorialMeaning>
+				<Synonym>om</Synonym>
+			</LogicalConstraint>
+			<def>đơn vị đo điện trở của dây dẫn</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ohm kế</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Tool</CategorialMeaning>
+			</LogicalConstraint>
+			<def>dụng cụ để đo điện trở của dây dẫn</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oi</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái</Before>
+			<After>Pd: ấy, đấy, đó, kia, này</After>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Furniture</CategorialMeaning>
+			</LogicalConstraint>
+			<def>giỏ nhỏ đan bằng tre nứa, dùng để đựng cua, đựng cá đánh bắt được</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oi</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+			<Before>R: rất</Before>
+			<After>R: quá</After>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>[thời tiết] rất nóng và ẩm, lặng gió, khiến cơ thể khó toả nhiệt, gây cảm giác bức bối khó chịu</def>
+			<exam>trời oi quá, chắc lại sắp mưa</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oi ả</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+			<Before>R: rất</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>oi [nói khái quát]</def>
+			<exam>trưa hè oi ả ~ tiết trời oi ả</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oi bức</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>State</CategorialMeaning>
+				<Synonym>nóng bức, nóng nực</Synonym>
+				<Antonym>mát mẻ</Antonym>
+			</LogicalConstraint>
+			<def>oi một cách ngột ngạt [nói khái quát]</def>
+			<exam>trời oi bức, không có lấy một ngọn gió</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oi khói</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>có mùi hơi hôi như mùi của khói, do bị khói ùa vào nồi khi đun nấu</def>
+			<exam>cơm bị oi khói</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oi ngột</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>oi bức và ngột ngạt, gây cảm giác khó chịu</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ói</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Physiology</CategorialMeaning>
+			</LogicalConstraint>
+			<def>nôn, mửa</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>olympic</HeadWord>
+		<Morphology>
+			<WordType>loan word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+				<Synonym>thế vận hội</Synonym>
+			</LogicalConstraint>
+			<def>đại hội thể dục thể thao quốc tế, dành riêng cho các vận động viên nghiệp dư, thường tổ chức bốn năm một lần</def>
+			<exam>vô địch olympic</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>om</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Furniture</CategorialMeaning>
+			</LogicalConstraint>
+			<def>nồi đất nhỏ</def>
+			<exam>cái om đất</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>om</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>UnitOfMetrical</CategorialMeaning>
+				<Synonym>ohm</Synonym>
+			</LogicalConstraint>
+			<def>xem <i>ohm</i>
+			</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>om</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vt</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Dob"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Dob"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<Before>R: đang</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Act</CategorialMeaning>
+				<Synonym>um</Synonym>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Agt"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Dob"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>nấu nhỏ lửa và lâu cho thức ăn ngấm kĩ mắm muối, gia vị</def>
+			<exam>om cá ~ om cà với đậu phụ</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>om</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vt</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Dob"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Dob"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<Before>R: đã</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Keep</CategorialMeaning>
+				<Synonym>ngâm, um</Synonym>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Agt"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Dob"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>giữ lại lâu, làm trì hoãn việc đáng lẽ có thể làm nhanh, làm sớm được</def>
+			<exam>họ om hồ sơ cả tháng trời chưa chịu giải quyết</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>om</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+				<Synonym>ầm, om sòm, ỏm, ỏm tỏi, rầm, rùm, um</Synonym>
+			</LogicalConstraint>
+			<def>to tiếng một cách ồn ào, gây cảm giác khó chịu</def>
+			<exam>gắt om nhà ~ làm cái gì mà cứ om lên thế?</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>om sòm</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+				<Synonym>ỏm tỏi, um sùm</Synonym>
+			</LogicalConstraint>
+			<def>ầm ĩ, gây náo động</def>
+			<exam>quát tháo om sòm ~ cãi cọ om sòm</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ỏm</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>như <i>om</i>
+			</def>
+			<exam>la hét ỏm cả lên</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ỏm tỏi</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+				<Synonym>om sòm</Synonym>
+			</LogicalConstraint>
+			<def>ầm ĩ đến náo loạn, gây cảm giác khó chịu</def>
+			<exam>cãi nhau ỏm tỏi</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>omega</HeadWord>
+		<Morphology>
+			<WordType>loan word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>con chữ thứ hai mươi bốn (cuối cùng) của bảng chữ cái Hi Lạp [ω, Ω]</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ỏn a ỏn ẻn</HeadWord>
+		<Morphology>
+			<WordType>reduplicativ</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>rất ỏn ẻn, gây cảm giác khó chịu</def>
+			<exam>giọng ỏn a ỏn ẻn như con gái</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ỏn à ỏn ẻn</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>như <i>ỏn a ỏn ẻn</i>
+			</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ỏn ẻn</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>[cách nói, giọng nói] nhỏ nhẻ và uốn éo, có vẻ điệu đà</def>
+			<exam>giọng nói ỏn ẻn</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ỏn thót</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>nói nhỏ nhẹ, khéo léo để nịnh nọt hoặc để gièm pha</def>
+			<exam>tính hay ỏn thót ~ ỏn thót với cấp trên</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ong</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Insect</CategorialMeaning>
+			</LogicalConstraint>
+			<def>côn trùng cánh màng, có ngòi đốt ở đuôi, thường sống thành đàn, một số loài hút mật hoa để làm mật</def>
+			<exam>ong hút mật ~ nuôi ong tay áo (tng)</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ong bắp cày</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: bầy, chú, con, đàn, lũ</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Insect or Worm</CategorialMeaning>
+				<Synonym>ong bầu</Synonym>
+			</LogicalConstraint>
+			<def>ong lớn, thân màu xanh đen, thường đục lỗ và làm tổ trong các thân cây khô, đặc biệt là tre, nứa</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ong bầu</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: bầy, chú, con, đàn, lũ</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Insect or Worm</CategorialMeaning>
+				<Synonym>ong bắp cày</Synonym>
+			</LogicalConstraint>
+			<def>xem <i>ong bắp cày</i>
+			</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ong bò vẽ</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: bầy, chú, con, đàn, lũ</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Insect or Worm</CategorialMeaning>
+				<Synonym>ong vẽ, ong vò vẽ</Synonym>
+			</LogicalConstraint>
+			<def>xem <i>ong vò vẽ</i>
+			</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ong chúa</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: bầy, chú, con, đàn, lũ</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Insect or Worm</CategorialMeaning>
+			</LogicalConstraint>
+			<def>con ong cái duy nhất có khả năng sinh sản trong một đàn ong</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ong mật</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: bầy, chú, con, đàn, lũ</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Insect or Worm</CategorialMeaning>
+			</LogicalConstraint>
+			<def>ong nuôi hoặc sống hoang, có khả năng sản sinh ra mật và sáp</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ong nghệ</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: bầy, chú, con, đàn, lũ</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Insect or Worm</CategorialMeaning>
+				<Synonym>ong vàng</Synonym>
+			</LogicalConstraint>
+			<def>ong thân màu vàng, thường làm tổ hình phễu trên các cây bụi nhỏ</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ong ong</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>có cảm giác đầu óc như có tiếng kêu rung nhè nhẹ và kéo dài, khiến cho thấy hơi chóng mặt, khó chịu trong người</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ong óng</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>hơi bóng mượt, trông thích mắt</def>
+			<exam>tơ vàng ong óng</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ong ruồi</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: bầy, chú, con, đàn, lũ</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Insect or Worm</CategorialMeaning>
+			</LogicalConstraint>
+			<def>ong mật, nhỏ như ruồi</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ong thợ</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: bầy, chú, con, đàn, lũ</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Insect or Worm</CategorialMeaning>
+			</LogicalConstraint>
+			<def>ong cái không có khả năng sinh sản, chuyên xây tổ, làm mật và nuôi ong con</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ong vàng</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: bầy, chú, con, đàn, lũ</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Insect or Worm</CategorialMeaning>
+				<Synonym>ong nghệ</Synonym>
+			</LogicalConstraint>
+			<def>xem <i>ong nghệ</i>
+			</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ong vẽ</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: bầy, chú, con, đàn, lũ</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Insect or Worm</CategorialMeaning>
+				<Synonym>ong bò vẽ, ong vò vẽ</Synonym>
+			</LogicalConstraint>
+			<def>xem <i>ong vò vẽ</i>
+			</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ong vò vẽ</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: bầy, chú, con, đàn, lũ</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Insect or Worm</CategorialMeaning>
+				<Synonym>ong bò vẽ, ong vẽ</Synonym>
+			</LogicalConstraint>
+			<def>ong màu vàng khoang đen, đốt rất đau, tổ giống như cái nồi đất ở trên cây</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>òng ọc</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ao</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Sound</CategorialMeaning>
+			</LogicalConstraint>
+			<def>từ mô phỏng tiếng nước bị khuấy động mạnh ở chỗ bị dồn, ứ lại</def>
+			<exam>bụng sôi òng ọc ~ tiếng súc miệng òng ọc</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ỏng</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ai</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>[bụng] phình to không bình thường, do có bệnh</def>
+			<exam>bụng ỏng đít beo (tng)</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>õng a õng ẹo</HeadWord>
+		<Morphology>
+			<WordType>reduplicativ</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+			<Before>R: cứ</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>như <i>õng ẹo</i> [nhưng ý mức độ nhiều hơn]</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>õng à õng ẹo</HeadWord>
+		<Morphology>
+			<WordType>reduplicativ</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+			<Before>R: cứ</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>như <i>õng a õng ẹo</i>
+			</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>õng ẹo</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ai</SubCategory>
+			<Before>R: rất</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+				<Synonym>thưỡn thẹo, ưỡn ẹo</Synonym>
+			</LogicalConstraint>
+			<def>từ gợi tả dáng điệu, cách nói năng uốn éo để làm nũng hoặc làm duyên [hàm ý chê]</def>
+			<exam>điệu bộ õng ẹo ~ bước đi õng ẹo</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>óng</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Tool</CategorialMeaning>
+			</LogicalConstraint>
+			<def>sợi dây vòng dưới cổ trâu bò để giữ ách</def>
+			<exam>tháo óng cho trâu</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>óng</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>bóng, mượt và đẹp</def>
+			<exam>cuộn tơ vàng óng ~ tóc đen óng</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>óng a óng ánh</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>như <i>óng ánh</i> [nhưng ý liên tiếp và mức độ nhiều hơn]</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>óng ả</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>bóng mượt và mềm mại</def>
+			<exam>mái tóc dài óng ả</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>óng ánh</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vs</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Obj"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Obj"/>
+				<feat att="syntacticConstituent" val="PP"/>
+			</SyntacticArgument>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<Synonym>lấp lánh, lóng lánh, nhấp nhánh</Synonym>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Theme"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Obj"/>
+					<feat att="semanticRole" val="Lo"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>phản chiếu ánh sáng lấp lánh, trông đẹp mắt</def>
+			<exam>muôn vàn vì sao óng ánh trên bầu trời</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>óng ánh</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vs</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Obj"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="PP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Obj"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<Synonym>lấp lánh, lóng lánh, nhấp nhánh</Synonym>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Lo"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Obj"/>
+					<feat att="semanticRole" val="Theme"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>phản chiếu ánh sáng lấp lánh, trông đẹp mắt</def>
+			<exam>trên bầu trời óng ánh muôn vàn vì sao</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>óng chuốt</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>sáng bóng lên như được mài, chuốt kĩ</def>
+			<exam>sợi tơ óng chuốt</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>óng mượt</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>sáng bóng lên một cách mượt mà, mềm mại</def>
+			<exam>mái tóc dài óng mượt</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>online</HeadWord>
+		<Morphology>
+			<WordType>loan word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+			<Before>R: đang</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+				<Synonym>trực tuyến</Synonym>
+			</LogicalConstraint>
+			<def>xem <i>trực tuyến</i>
+			</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>óp</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+				<Antonym>chắc, mẩy</Antonym>
+			</LogicalConstraint>
+			<def>lép, teo hoặc không chắc thịt, không mẩy</def>
+			<exam>cua óp ~ lạc óp</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ọp à ọp ẹp</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>rất ọp ẹp</def>
+			<exam>cái chõng tre ọp à ọp ẹp</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ọp ẹp</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>ở trạng thái đã hư hỏng nhiều, đến mức các bộ phận trở nên lỏng lẻo, không còn gắn chặt với nhau, dễ sụp đổ</def>
+			<exam>bộ bàn ghế ọp ẹp ~ chiếc thuyền nan ọp ẹp</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>opera</HeadWord>
+		<Morphology>
+			<WordType>loan word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+				<Synonym>nhạc kịch</Synonym>
+			</LogicalConstraint>
+			<def>loại hình sân khấu tổng hợp gồm ca, múa, nhạc, trong đó âm nhạc giữ vai trò chủ chốt và quán xuyến từ đầu đến cuối</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>organ</HeadWord>
+		<Morphology>
+			<WordType>loan word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái, chiếc</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Instrument</CategorialMeaning>
+			</LogicalConstraint>
+			<def>đàn phím điện tử</def>
+			<exam>chơi organ</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ót</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>PersonPart</CategorialMeaning>
+			</LogicalConstraint>
+			<def>gáy</def>
+			<exam>tóc búi sau ót</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ót</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>[nương rẫy] đã bạc màu</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ounce</HeadWord>
+		<Morphology>
+			<WordType>loan word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>UnitOfMetrical</CategorialMeaning>
+			</LogicalConstraint>
+			<def>đơn vị đo khối lượng của các nước Anh - Mĩ: bằng 28,3495 gram; hoặc bằng 31,1035 gram [riêng với vàng, đá quý, dược phẩm]</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>output</HeadWord>
+		<Morphology>
+			<WordType>loan word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+			</LogicalConstraint>
+			<def>quá trình hiển thị hoặc in ra các kết quả của các thao tác xử lí thông tin; phân biệt với <i>input</i>
+			</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oxide</HeadWord>
+		<Morphology>
+			<WordType>loan word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+			</LogicalConstraint>
+			<def>hợp chất của một nguyên tố với oxygen</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oxygen</HeadWord>
+		<Morphology>
+			<WordType>loan word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Gas</CategorialMeaning>
+				<Synonym>ôxy</Synonym>
+			</LogicalConstraint>
+			<def>khí không màu, không mùi, chiếm một phần năm thể tích của không khí, hoá hợp được với nhiều chất khác, cần cho sự hô hấp, sự cháy</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>oz</HeadWord>
+		<Morphology>
+			<WordType>loan word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>UnitOfMetrical</CategorialMeaning>
+			</LogicalConstraint>
+			<def>ounce [viết tắt]</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ozone</HeadWord>
+		<Morphology>
+			<WordType>loan word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Gas</CategorialMeaning>
+			</LogicalConstraint>
+			<def>khí màu xanh nhạt, có nhiều ở tầng cao của khí quyển, mùi nồng, tan trong nước, có tính chất giống oxygen nhưng mạnh hơn, thường dùng để tẩy trắng, sát trùng nước hoặc không khí</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ô</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>con chữ thứ mười tám của bảng chữ cái chữ quốc ngữ</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ô</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái, chiếc</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Furniture</CategorialMeaning>
+				<Synonym>dù</Synonym>
+			</LogicalConstraint>
+			<def>đồ dùng để che mưa nắng, có cán cầm gắn với khung lợp vải có thể giương ra cụp vào</def>
+			<exam>giương ô ~ mang theo ô kẻo nắng</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ô</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Knowledge</CategorialMeaning>
+				<Synonym>ô dù</Synonym>
+			</LogicalConstraint>
+			<def>kẻ cấp trên có thế lực, có thể che chở, làm chỗ dựa cho kẻ cấp dưới, nói trong quan hệ với kẻ cấp dưới đó</def>
+			<exam>cậy mình có ô to</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ô</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Knowledge</CategorialMeaning>
+			</LogicalConstraint>
+			<def>khoảng nhỏ vuông vắn được phân chia ngăn cách ra trên bề mặt của vật</def>
+			<exam>ô cửa sổ ~ giấy kẻ ô ~ áo sơ mi kẻ ô</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ô</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+			</LogicalConstraint>
+			<def>khu vực bên ngoài thành Thăng Long thời xưa</def>
+			<exam>năm cửa ô ~ ô Cầu Dền</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ô</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>O</Category>
+			<SubCategory>O</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>như <i>ơ</i>
+			</def>
+			<exam>ô, sao lại thế?</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>Ô</HeadWord>
+		<Morphology>
+			<WordType>abbreviation</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Person</CategorialMeaning>
+			</LogicalConstraint>
+			<def>ông [viết tắt]</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ô dù</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Knowledge</CategorialMeaning>
+			</LogicalConstraint>
+			<def>kẻ cấp trên che chở cho kẻ cấp dưới làm càn, trong quan hệ với kẻ cấp dưới đó [nói khái quát]</def>
+			<exam>cậy có ô dù nên không coi ai ra gì</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ô hay</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>O</Category>
+			<SubCategory>O</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<Synonym>ơ hay</Synonym>
+			</LogicalConstraint>
+			<def>tiếng thốt ra biểu lộ sự ngạc nhiên, tỏ ý không hài lòng</def>
+			<exam>ô hay, sao lại làm như thế?</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ô hợp</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>[tập hợp người] táp nham, không có tổ chức, không có kỉ luật gì [ví như một bầy quạ]</def>
+			<exam>hạng người ô hợp</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ô kê</HeadWord>
+		<Morphology>
+			<WordType>loan word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>O</Category>
+			<SubCategory>O</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>tiếng dùng để trả lời, tỏ sự đồng tình, đồng ý</def>
+			<exam>ô kê, tốt lắm! ~ tưởng gì chứ việc đó thì ô kê ngay!</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ô kìa</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>O</Category>
+			<SubCategory>O</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<Synonym>ơ kìa</Synonym>
+			</LogicalConstraint>
+			<def>tiếng thốt ra biểu lộ sự ngạc nhiên cao độ</def>
+			<exam>ô kìa cái anh này, làm gì thế hả?</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ô liu</HeadWord>
+		<Morphology>
+			<WordType>loan word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cây</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Tree</CategorialMeaning>
+			</LogicalConstraint>
+			<def>cây to hoặc nhỡ mọc ở miền ôn đới, thân có nhiều mấu, lá hình ngọn giáo, mặt trên lục nhạt, mặt dưới trắng nhạt, quả ăn được hoặc để ép lấy dầu</def>
+			<exam>dầu ô liu</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ô mai</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Dish</CategorialMeaning>
+			</LogicalConstraint>
+			<def>quả mơ ướp đường hoặc muối rồi phơi khô, để ăn hoặc làm thuốc; cũng dùng để chỉ một số loại quả được chế biến theo cách đó</def>
+			<exam>ô mai mơ ~ làm ô mai sấu</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ô môi</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cây</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Tree</CategorialMeaning>
+			</LogicalConstraint>
+			<def>cây thuộc loại cây muồng, lá kép lông chim, hoa đỏ, quả dài và mỏng, bọc trong một lớp chất xốp có vị ngọt, có thể ngâm rượu làm thuốc</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ô nhiễm</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>nhiễm bẩn tới mức có thể gây độc hại</def>
+			<exam>vùng biển này đang bị ô nhiễm ~ mạch nước bị ô nhiễm nặng</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ô nhục</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+				<Synonym>sỉ nhục</Synonym>
+			</LogicalConstraint>
+			<def>xấu xa, nhục nhã</def>
+			<exam>nỗi ô nhục ~ thân thể bị ô nhục</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ô rô</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cây</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Tree</CategorialMeaning>
+			</LogicalConstraint>
+			<def>cây nhỏ cùng họ với dâu tằm, mép lá có răng cưa sắc và cứng, cành mọc chằng chịt, thường trồng làm hàng rào</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ô rô</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cây</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Tree</CategorialMeaning>
+			</LogicalConstraint>
+			<def>cây nhỏ, lá cứng, dài, mép lượn sóng có gai nhọn, thường mọc ở các bãi nước lợ</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ô tô</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái, chiếc</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Vehicle</CategorialMeaning>
+			</LogicalConstraint>
+			<def>xe thường có bốn bánh, chạy bằng động cơ trên đường bộ, để chở người hoặc chở hàng</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ô tô buýt</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái, chiếc</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Vehicle</CategorialMeaning>
+				<Synonym>xe buýt</Synonym>
+			</LogicalConstraint>
+			<def>ô tô lớn chở hành khách trên tuyến đường nhất định, thường là trong thành phố</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ô tô con</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái, chiếc</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Vehicle</CategorialMeaning>
+				<Synonym>xe con</Synonym>
+			</LogicalConstraint>
+			<def>ô tô nhỏ có thể chở được từ hai đến tám người và hành lí đi kèm</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ô tô du lịch</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái, chiếc</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Vehicle</CategorialMeaning>
+				<Synonym>ô tô hòm, xe du lịch</Synonym>
+			</LogicalConstraint>
+			<def>ô tô được thiết kế đẹp, thường dùng để chở khách đi tham quan, du lịch</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ô trọc</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+				<Synonym>ô uế</Synonym>
+			</LogicalConstraint>
+			<def>xấu xa, nhơ bẩn</def>
+			<exam>miệng đời ô trọc ~ "Đêm đêm lại hỏi trời già, Thân này ô trọc hay là thanh cao?" (TTK)</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ô uế</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+				<Synonym>ô trọc</Synonym>
+			</LogicalConstraint>
+			<def>bẩn thỉu, nhơ nhớp</def>
+			<exam>tấm thân ô uế ~ làm ô uế thanh danh</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ô văng</HeadWord>
+		<Morphology>
+			<WordType>loan word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái, chiếc</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Building</CategorialMeaning>
+				<Synonym>mái hắt</Synonym>
+			</LogicalConstraint>
+			<def>xem <i>mái hắt</i>
+			</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ồ</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>như <i>ùa</i>
+			</def>
+			<exam>nước ồ vào thuyền ~ bọn trẻ chạy ồ ra khỏi lớp</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ồ</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>O</Category>
+			<SubCategory>O</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>tiếng thốt ra biểu lộ cảm xúc ngạc nhiên, bất ngờ hoặc khi sực nhớ ra điều gì</def>
+			<exam>ồ, đẹp quá! ~ mọi người cùng ồ lên kinh ngạc</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ồ ạt</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+				<Synonym>ào ạt</Synonym>
+			</LogicalConstraint>
+			<def>mạnh, nhanh, dồn dập, và không có trật tự</def>
+			<exam>đê vỡ, nước ồ ạt tràn vào ~ làn sóng di cư ồ ạt</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ồ ề</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ao</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>từ gợi tả giọng nói trầm, nặng, không rõ, không gọn và rề rà</def>
+			<exam>giọng nói ồ ề</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ồ ồ</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ao</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Sound</CategorialMeaning>
+			</LogicalConstraint>
+			<def>từ mô phỏng tiếng nước chảy nhiều và mạnh</def>
+			<exam>nước chảy ồ ồ</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ồ ồ</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ao</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>từ gợi tả giọng nói, âm thanh to và trầm</def>
+			<exam>tự nhiên lại ồ ồ lên khóc ~ giọng nói ồ ồ</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ổ</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+			<Before>Nc: cái, chiếc</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+				<Synonym>tổ</Synonym>
+			</LogicalConstraint>
+			<def>chỗ có lót và quây rơm rác để nằm hay để đẻ, thường là của một số loài vật</def>
+			<exam>ổ rơm ~ gà nhảy ổ</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ổ</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+			</LogicalConstraint>
+			<def>đàn động vật con mới sinh trong cùng một ổ</def>
+			<exam>ổ chó có ba con ~ mua cả ổ lợn</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ổ</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nc</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>UnitOfCollection</CategorialMeaning>
+				<Synonym>băng, nhóm</Synonym>
+			</LogicalConstraint>
+			<def>nơi tụ tập, ẩn náu của những kẻ chuyên làm việc phi pháp; cũng dùng để chỉ nhóm người làm việc phi pháp có tổ chức</def>
+			<exam>ổ cướp ~ ổ cờ bạc ~ một ổ lưu manh</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ổ</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+			</LogicalConstraint>
+			<def>nơi tập trung chứa đựng nguồn gốc bệnh tật</def>
+			<exam>ổ dịch bệnh ~ ổ vi trùng</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ổ</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+			</LogicalConstraint>
+			<def>nơi được bố trí tập trung lực lượng chiến đấu đánh địch</def>
+			<exam>rơi vào ổ phục kích</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ổ</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nc</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>UnitOfObject</CategorialMeaning>
+			</LogicalConstraint>
+			<def>chiếc [bánh mì]</def>
+			<exam>ổ bánh mì</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ổ bi</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái, chiếc</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>ArtifactPart</CategorialMeaning>
+				<Synonym>vòng bi</Synonym>
+			</LogicalConstraint>
+			<def>vòng có đặt bi, dùng lắp vào trục để quay cho nhẹ</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ổ bụng</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>BodyPart</CategorialMeaning>
+			</LogicalConstraint>
+			<def>khoang bụng nằm dưới cơ hoành, nơi chứa dạ dày, ruột và các cơ quan tiêu hoá khác</def>
+			<exam>siêu âm ổ bụng</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ổ cắm</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái, chiếc</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>ArtifactPart</CategorialMeaning>
+			</LogicalConstraint>
+			<def>bộ phận để cắm phích điện</def>
+			<exam>kiểm tra ổ cắm</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ổ chuột</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Building</CategorialMeaning>
+			</LogicalConstraint>
+			<def>nhà ở chui rúc, chật hẹp và bẩn thỉu [tựa như hang ổ của chuột]</def>
+			<exam>khu nhà ổ chuột</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ổ cứng</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái, chiếc</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>ArtifactPart</CategorialMeaning>
+			</LogicalConstraint>
+			<def>ổ đĩa cứng [nói tắt]</def>
+			<exam>máy bị hỏng ổ cứng</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ổ đề kháng</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+			</LogicalConstraint>
+			<def>điểm chốt vững chắc để chống lại khi đối phương thọc sâu vào khu vực phòng ngự</def>
+			<exam>tiêu diệt ổ đề kháng của địch</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ổ đĩa</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Accessory</CategorialMeaning>
+			</LogicalConstraint>
+			<def>thiết bị để ghi và đọc thông tin từ các thiết bị nhớ ngoài của máy tính, như đĩa mềm, đĩa cứng</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ổ đĩa cứng</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái, chiếc</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>ArtifactPart</CategorialMeaning>
+			</LogicalConstraint>
+			<def>thiết bị lưu trữ thông tin bên ngoài máy tính, cho phép ghi thông tin từ máy tính đưa ra lên đĩa cứng hay đọc thông tin đã lưu trữ trên đĩa vào máy tính</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ổ đĩa cứng ngoài</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái, chiếc</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>ArtifactPart</CategorialMeaning>
+			</LogicalConstraint>
+			<def>loại đĩa cứng có vỏ hộp, dây cáp và nguồn điện riêng, nằm ngoài hộp chứa máy tính</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ổ đọc</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Accessory</CategorialMeaning>
+			</LogicalConstraint>
+			<def>ổ để đọc băng, đĩa, nói chung</def>
+			<exam>ổ đọc đĩa CD ~ ổ đọc băng từ</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ổ gà</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+			<Before>Nc: cái</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+			</LogicalConstraint>
+			<def>chỗ mặt đường bị lở, lõm sâu xuống giống như ổ của gà</def>
+			<exam>lấp ổ gà</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ổ khoá</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái, chiếc</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>ArtifactPart</CategorialMeaning>
+			</LogicalConstraint>
+			<def>khoá dùng để lắp chìm vào cửa, tủ</def>
+			<exam>ổ khoá bị hóc</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ổ mềm</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái, chiếc</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>ArtifactPart</CategorialMeaning>
+			</LogicalConstraint>
+			<def>ổ đĩa mềm [nói tắt]</def>
+			<exam>khởi động máy từ ổ mềm</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ổ nhóm</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Ng</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+			</LogicalConstraint>
+			<def>nhóm hoạt động phi pháp ở những địa bàn nhất định [nói khái quát]</def>
+			<exam>triệt phá những ổ nhóm buôn lậu ma tuý</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ổ trâu</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+			<Before>Nc: cái</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+			</LogicalConstraint>
+			<def>chỗ lõm sâu trên mặt đường, lớn hơn ổ gà, khiến đi lại khó khăn</def>
+			<exam>mặt đường toàn ổ gà, ổ trâu</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ổ trục</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái, chiếc</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>ArtifactPart</CategorialMeaning>
+			</LogicalConstraint>
+			<def>bộ phận trực tiếp đỡ các trục quay</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ổ voi</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Knowledge</CategorialMeaning>
+			</LogicalConstraint>
+			<def>chỗ lõm rất lớn và sâu trên mặt đường [thường hàm ý hài hước]</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ố</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+				<Synonym>hoen ố</Synonym>
+			</LogicalConstraint>
+			<def>có vết loang lổ và xỉn màu, khó tẩy rửa [thường nói về giấy, vải]</def>
+			<exam>tấm ảnh đã bị ố vàng ~ chiếc áo có nhiều vết ố</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ộ ệ</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ai</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>từ gợi tả dáng nặng nề, đi lại rất khó nhọc của người có chửa</def>
+			<exam>bụng chửa ộ ệ</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ôboa</HeadWord>
+		<Morphology>
+			<WordType>loan word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái, chiếc</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Instrument</CategorialMeaning>
+			</LogicalConstraint>
+			<def>kèn dăm kép, thân bằng gỗ cứng, có cần bấm ngón bằng kim loại</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ốc</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: bầy, chú, con, đàn, lũ</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Shellfish</CategorialMeaning>
+			</LogicalConstraint>
+			<def>động vật thân mềm có vỏ cứng và xoắn, có nhiều loài khác nhau, sống ở nước hoặc ở cạn, một số loài thịt ăn được</def>
+			<exam>mò cua bắt ốc</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ốc</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Tool</CategorialMeaning>
+			</LogicalConstraint>
+			<def>tù và làm bằng vỏ ốc lớn, thời xưa dùng để thổi phát hiệu</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ốc</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái, chiếc, con</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Accessory</CategorialMeaning>
+			</LogicalConstraint>
+			<def>đinh ốc [nói tắt]</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ốc bươu</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: bầy, chú, con, đàn, lũ</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Shellfish</CategorialMeaning>
+			</LogicalConstraint>
+			<def>ốc nước ngọt, vỏ nhẵn, màu xanh đen, dài hơn ốc nhồi, sống ở ao, ruộng</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ốc bươu vàng</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: bầy, chú, con, đàn, lũ</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Shellfish</CategorialMeaning>
+			</LogicalConstraint>
+			<def>ốc bươu có nguồn gốc từ châu Phi, vỏ vàng ươm, sinh sản rất nhanh trên diện rộng, phá hoại cây trồng đặc biệt là lúa và cây trồng trong nước</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ốc đảo</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái, chiếc, hòn</Before>
+			<After>Pd: ấy, đấy, đó, kia, này</After>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Land</CategorialMeaning>
+			</LogicalConstraint>
+			<def>khoảng đất có nước và cây cối ở sa mạc</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ốc hương</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: bầy, chú, con, đàn, lũ</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Shellfish</CategorialMeaning>
+			</LogicalConstraint>
+			<def>ốc biển tròn và nhỏ, vỏ trắng có vệt nâu, thịt thơm</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ốc lồi</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: bầy, chú, con, đàn, lũ</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Shellfish</CategorialMeaning>
+				<Synonym>ốc nhồi</Synonym>
+			</LogicalConstraint>
+			<def>xem <i>ốc nhồi</i>
+			</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ốc nhồi</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: bầy, chú, con, đàn, lũ</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Shellfish</CategorialMeaning>
+				<Synonym>ốc lồi</Synonym>
+			</LogicalConstraint>
+			<def>ốc nước ngọt tròn và to, vỏ bóng, sống ở ao, ruộng</def>
+			<exam>mắt ốc nhồi (mắt to và lồi)</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ốc sên</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: bầy, chú, con, đàn, lũ</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Shellfish</CategorialMeaning>
+			</LogicalConstraint>
+			<def>ốc sống ở cạn, hay ăn hại lá cây</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ốc vặn</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: bầy, chú, con, đàn, lũ</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Shellfish</CategorialMeaning>
+			</LogicalConstraint>
+			<def>ốc nước ngọt nhỏ, vỏ có gờ sần sùi, sống ở ao, ruộng</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ốc xà cừ</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: bầy, chú, con, đàn, lũ</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Shellfish</CategorialMeaning>
+			</LogicalConstraint>
+			<def>ốc biển loại lớn, vỏ dày có màu sắc óng ánh [như màu của xà cừ], thường dùng để khảm vào đồ gỗ</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ộc</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<Synonym>ọc</Synonym>
+			</LogicalConstraint>
+			<def>trào mạnh, tuôn mạnh từ trong ra một cách đột ngột</def>
+			<exam>máu ộc ra đằng miệng</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ôi</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>[thức ăn] bắt đầu có mùi khó ngửi, không còn tươi ngon nữa</def>
+			<exam>miếng thịt ôi ~ của rẻ là của ôi (tng)</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ôi</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>O</Category>
+			<SubCategory>O</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>tiếng thốt ra biểu lộ sự xúc động mạnh mẽ trước điều bất ngờ</def>
+			<exam>ôi! thật thế à? ~ ôi! đông quá!</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ôi</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>O</Category>
+			<SubCategory>O</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>tiếng thốt ra biểu lộ ý than thở hoặc để bày tỏ tình cảm tha thiết</def>
+			<exam>"Thương chàng lắm lắm chàng ôi!, Biết đâu thanh vắng mà ngồi thở than?" (Cdao)</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ôi chao</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>O</Category>
+			<SubCategory>O</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>tiếng thốt ra biểu lộ sự xúc động mạnh đến ngạc nhiên, sửng sốt</def>
+			<exam>ôi chao, đẹp quá! ~ ôi chao, mới đấy mà đã mấy năm rồi!</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ôi chao</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>O</Category>
+			<SubCategory>O</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<Synonym>chao</Synonym>
+			</LogicalConstraint>
+			<def>tiếng thốt ra như tiếng than, biểu thị sự phàn nàn, than thở</def>
+			<exam>ôi chao, còn gì nữa mà mong!</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ôi dào</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>O</Category>
+			<SubCategory>O</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<Synonym>ối dào, úi dà, úi dào</Synonym>
+			</LogicalConstraint>
+			<def>tiếng thốt ra biểu lộ ý chán nản, thiếu tin tưởng</def>
+			<exam>ôi dào, chuyên nghiệp còn chẳng ăn ai nữa là nghiệp dư</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ôi thôi</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>O</Category>
+			<SubCategory>O</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<Synonym>thôi</Synonym>
+			</LogicalConstraint>
+			<def>tiếng thốt ra biểu lộ sự than tiếc, thất vọng trước điều không hay vừa xảy ra</def>
+			<exam>"Ôi thôi con vượn lìa cây, Đoái xem phong cảnh, hội này đã xa." (Cdao)</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ổi</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cây</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Tree</CategorialMeaning>
+			</LogicalConstraint>
+			<def>cây gỗ nhỡ cùng họ với sim, vỏ nhẵn, lá mọc đối, quả chứa nhiều hạt nhỏ, thịt mềm, ăn được</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ổi tàu</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cây</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Tree</CategorialMeaning>
+			</LogicalConstraint>
+			<def>ổi lá nhỏ, quả hình cầu, thịt giòn, ít hạt</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ổi trâu</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Fruit</CategorialMeaning>
+			</LogicalConstraint>
+			<def>ổi quả to</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ối</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>BodyPart</CategorialMeaning>
+			</LogicalConstraint>
+			<def>màng ối [nói tắt]</def>
+			<exam>vỡ ối ~ kiểm tra nước ối</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ối</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+				<Synonym>khối, vô khối, vô số</Synonym>
+			</LogicalConstraint>
+			<def>nhiều lắm, như không kể xiết</def>
+			<exam>còn ối việc phải làm ~ ở đời có ối người tử tế</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ối</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>O</Category>
+			<SubCategory>O</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>tiếng thốt ra khi bị đau, bị tai hoạ bất ngờ</def>
+			<exam>ối! đau quá! ~ ối làng nước ơi! cứu tôi với!</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ối dào</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>O</Category>
+			<SubCategory>O</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>như <i>ôi dào</i>
+			</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ôm</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vt</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Dob"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Dob"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<Before>R: đã, đang, hãy</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Act</CategorialMeaning>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Agt"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Dob"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>vòng hai tay qua để giữ sát vào lòng, vào người</def>
+			<exam>anh ôm eo cô ~ ôm con vào lòng ~ bé quàng tay ôm lấy cổ mẹ</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ôm</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vs</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Obj"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Obj"/>
+				<feat att="syntacticConstituent" val="NP, VP, AP"/>
+			</SyntacticArgument>
+			<Before>R: vẫn, cứ</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Will</CategorialMeaning>
+				<Synonym>ấp ủ, ôm ấp</Synonym>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Agt"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Obj"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>giữ mãi, nuôi mãi trong lòng</def>
+			<exam>ôm mộng làm giàu ~ ôm mối thù</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ôm</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nc</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>UnitOfCollection</CategorialMeaning>
+			</LogicalConstraint>
+			<def>lượng vừa nằm gọn trong một vòng tay</def>
+			<exam>một ôm quần áo ~ vay mấy ôm củi</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ôm ấp</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vt</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Dob"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Dob"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<Before>R: đang</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Act</CategorialMeaning>
+				<Synonym>ấp ôm</Synonym>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Agt"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Dob"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>ôm vào lòng với tình cảm tha thiết, âu yếm</def>
+			<exam>chị ôm ấp đứa con vào lòng</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ôm ấp</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vs</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Obj"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Obj"/>
+				<feat att="syntacticConstituent" val="NP, VP, AP"/>
+			</SyntacticArgument>
+			<Before>R: đang</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Desire</CategorialMeaning>
+				<Synonym>ấp ủ, ủ ấp</Synonym>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Agt"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Obj"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>nuôi giữ trong lòng một cách trân trọng, tha thiết</def>
+			<exam>ôm ấp mộng văn chương ~ ôm ấp hi vọng</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ôm chầm</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vs</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Obj"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Obj"/>
+				<feat att="syntacticConstituent" val="NP, VP, AP"/>
+			</SyntacticArgument>
+			<Before>R: cứ</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Act</CategorialMeaning>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Agt"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Obj"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>ôm và ghì chặt lấy vào lòng bằng một động tác rất nhanh và đột ngột</def>
+			<exam>bé ôm chầm lấy mẹ</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ôm chân</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>ví hành động luồn cúi, bợ đỡ một cách đê hèn</def>
+			<exam>diệt trừ kẻ ôm chân giặc</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ôm đồm</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<Synonym>bao biện</Synonym>
+			</LogicalConstraint>
+			<def>tự nhận làm quá nhiều việc, kể cả những việc lẽ ra phải để người khác làm, cho nên làm không xuể</def>
+			<exam>ôm đồm nhiều việc ~ tính hay ôm đồm</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ồm ồm</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ao</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>từ gợi tả giọng nói to, trầm và hơi rè, nghe không được rành rọt</def>
+			<exam>tiếng loa ồm ồm ~ giọng nói ồm ồm</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ồm ộp</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ao</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Sound</CategorialMeaning>
+			</LogicalConstraint>
+			<def>như <i>ộp oạp</i> [ng1]</def>
+			<exam>ếch nhái kêu ồm ộp</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ốm</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vs</SubCategory>
+			<SubcategorizationFrame val="Sub+V"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<Before>R: đã, đang, hay, lại</Before>
+			<After>R: rồi</After>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Physiological</CategorialMeaning>
+				<Synonym>đau ốm, đau yếu, ốm đau</Synonym>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Exp"/>
+					<feat att="subjectMeaning" val="Person, Animal"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>ở trạng thái cơ thể bị bệnh</def>
+			<exam>chí ấy đang ốm ~ đàn lợn đang ốm</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ốm</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+			<After>R: quá</After>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>gầy</def>
+			<exam>con bé trông ốm quá!</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ốm đau</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vs</SubCategory>
+			<SubcategorizationFrame val="Sub+V"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Physiological</CategorialMeaning>
+				<Synonym>đau ốm, đau yếu, ốm yếu</Synonym>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Exp"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>như <i>đau ốm</i>
+			</def>
+			<exam>bà ấy ốm đau luôn</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ốm đòn</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>bị đòn rất đau [thường dùng với ý doạ dẫm]</def>
+			<exam>cứ lười nhác thì ốm đòn!</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ốm nghén</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+			<Before>R: đang</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>ở trạng thái cơ thể mệt nhọc, khó chịu, trong thời kì có nghén</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ốm nhách</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>gầy đét</def>
+			<exam>người ốm nhách</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ốm nhom</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>gầy nhom</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ốm o</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>gầy yếu một cách thảm hại</def>
+			<exam>đứa trẻ ốm o ~ "Chim chuyền nhành ớt líu lo, Sầu ai nên nỗi ốm o gầy mòn." (Cdao)</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ốm xác</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>cực nhọc, làm khổ cái thân mà không được lợi ích gì</def>
+			<exam>chả được cái gì, chỉ ốm xác! ~ đi làm gì cho ốm xác!</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ốm yếu</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>có thể lực kém, sức khoẻ kém</def>
+			<exam>người ốm yếu, xanh xao</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ôn</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vt</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Dob"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Dob"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<Before>R: đang</Before>
+			<After>R: lại</After>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>CognitiveAct</CategorialMeaning>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Agt"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Dob"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>học lại hoặc nhắc lại để nhớ điều đã học hoặc đã trải qua</def>
+			<exam>tôi đang ôn bài để mai thi ~ ôn lại những kỉ niệm thời thơ ấu</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ôn con</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+				<Synonym>ôn vật</Synonym>
+			</LogicalConstraint>
+			<def>tổ hợp dùng làm tiếng rủa, mắng trẻ con hay người ít tuổi</def>
+			<exam>thằng ôn con! ~ "Quân này, ôn con mà đã gan hơn tướng cướp!" (Vũ Trọng Phụng; 15)</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ôn dịch</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>bệnh dịch [nói khái quát]; thường dùng làm tiếng chửi rủa</def>
+			<exam>đồ ôn dịch!</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ôn đới</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+			</LogicalConstraint>
+			<def>đới nằm giữa cận nhiệt đới và hàn đới, có nhiệt độ thay đổi rõ rệt theo mùa</def>
+			<exam>vùng ôn đới ~ khí hậu ôn đới</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ôn hoà</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+			<Before>R: rất</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>[khí hậu] ấm áp, dễ chịu, không nóng quá, cũng không lạnh quá</def>
+			<exam>khí hậu ôn hoà, dễ chịu</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ôn hoà</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+			<Before>R: rất</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>tỏ ra điềm đạm, không gay gắt, không nóng nảy trong quan hệ đối xử</def>
+			<exam>thái độ ôn hoà ~ ăn nói ôn hoà</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ôn hoà</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>có tư tưởng, quan điểm chính trị không tán thành đấu tranh quyết liệt, hoặc không quá khích</def>
+			<exam>đường lối ôn hoà ~ phái ôn hoà</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ôn luyện</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vs</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Obj"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Obj"/>
+				<feat att="syntacticConstituent" val="NP, VP, AP"/>
+			</SyntacticArgument>
+			<Before>R: đang</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>CognitiveAct</CategorialMeaning>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Agt"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Obj"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>ôn lại, tập lại nhiều lần để nắm chắc, để cho thành thạo [nói khái quát]</def>
+			<exam>ôn luyện bài vở để thi đại học ~ ôn luyện cấp tốc</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ôn tập</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>học và ôn luyện lại những điều đã học để nắm chắc, để nhớ lâu</def>
+			<exam>ôn tập hè ~ ôn tập một cách có hệ thống</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ôn tồn</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>[nói năng] nhẹ nhàng, từ tốn, tỏ ra nhã nhặn khiến dễ tiếp thu</def>
+			<exam>ôn tồn khuyên bảo</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ôn vật</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+			</LogicalConstraint>
+			<def>như <i>ôn con</i> [nhưng nghĩa mạnh hơn]</def>
+			<exam>đồ ôn vật!</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ồn</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+			<After>R: quá</After>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>có nhiều âm thanh, tiếng động lẫn lộn, làm cho khó nghe, khó chịu</def>
+			<exam>đóng cửa cho đỡ ồn ~ làm ồn ~ ồn quá, chẳng nghe thấy gì!</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ồn ã</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+				<Synonym>ầm ĩ, ồn ào</Synonym>
+			</LogicalConstraint>
+			<def>có nhiều âm thanh hỗn độn làm náo động lên</def>
+			<exam>tiếng cười nói ồn ã</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ồn ào</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+			<Before>R: rất</Before>
+			<After>R: quá</After>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+				<Synonym>ầm ĩ, ồn ã</Synonym>
+			</LogicalConstraint>
+			<def>ồn [nói khái quát]</def>
+			<exam>đường phố ồn ào, náo nhiệt</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ồn ào</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>thích làm ồn ào để gây sự chú ý, tạo cảm giác khó chịu</def>
+			<exam>cách sống ồn ào, sôi nổi ~ lối quảng cáo ồn ào</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ổn</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+			<Before>R: đã, rất, khá</Before>
+			<After>R: rồi</After>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+				<Synonym>ổn thoả</Synonym>
+			</LogicalConstraint>
+			<def>yên, không có gì vướng mắc, không có gì lôi thôi phải giải quyết</def>
+			<exam>công việc đã tạm ổn ~ nói như vậy là không ổn</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ổn áp</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+			</LogicalConstraint>
+			<def>biến thế điện đặc biệt, tự động giữ cho hiệu điện thế ở đầu ra luôn luôn có trị số không đổi, mặc dù hiệu điện thế ở đầu vào có thể tăng hay giảm trong một khoảng nào đó</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ổn định</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+			<Before>R: rất, khá</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>ở trạng thái yên ổn, không còn có những biến động, thay đổi đáng kể</def>
+			<exam>ổn định cuộc sống ~ giá cả ổn định</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ổn thoả</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+			<Before>R: rất, khá</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+				<Synonym>êm thấm</Synonym>
+			</LogicalConstraint>
+			<def>yên ổn, đâu vào đấy, không còn khúc mắc gì nữa</def>
+			<exam>mọi việc được thu xếp ổn thoả</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ông</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Person</CategorialMeaning>
+			</LogicalConstraint>
+			<def>người đàn ông sinh ra hoặc thuộc thế hệ sinh ra cha hoặc mẹ [có thể dùng để xưng gọi]</def>
+			<exam>ông nội ~ ông và cháu</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ông</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nc</SubCategory>
+			<After>Pd: ấy, kia, này</After>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>UnitOfObject</CategorialMeaning>
+			</LogicalConstraint>
+			<def>từ dùng để chỉ hoặc gọi người đàn ông đứng tuổi hoặc được kính trọng</def>
+			<exam>ông giáo ~ ông bộ trưởng ~ ông lão hàng xóm</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ông</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Person</CategorialMeaning>
+			</LogicalConstraint>
+			<def>từ người đàn ông dùng để tự xưng khi tức giận, muốn tỏ vẻ trịch thượng hoặc hách dịch</def>
+			<exam>mày sẽ biết tay ông!</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ông</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nc</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>UnitOfObject</CategorialMeaning>
+			</LogicalConstraint>
+			<def>từ dùng để gọi người đàn ông ngang hàng hoặc hàng dưới một cách thân mật</def>
+			<exam>ông anh vợ ~ ông bạn nối khố ~ ông em rể</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ông</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+			</LogicalConstraint>
+			<def>từ dùng để gọi tôn vật được sùng bái hay kiêng sợ</def>
+			<exam>ông trời ~ ông công ông táo ~ ông thiên lôi</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ông ba mươi</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+			</LogicalConstraint>
+			<def>con hổ [gọi kiêng tránh]</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ông bà</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Ng</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Person</CategorialMeaning>
+			</LogicalConstraint>
+			<def>ông và bà [nói gộp]; thường dùng để chỉ chung tổ tiên, trong quan hệ với con cháu</def>
+			<exam>ruộng vườn của ông bà để lại</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ông bà ông vải</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Ng</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Person</CategorialMeaning>
+			</LogicalConstraint>
+			<def>ông bà, tổ tiên</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ông bầu</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Person</CategorialMeaning>
+			</LogicalConstraint>
+			<def>người đàn ông làm bầu cho một gánh hát, một ca sĩ, một đội thể thao, v.v.</def>
+			<exam>ông bầu ca nhạc ~ ông bầu của đội bóng</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ông cha</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Ng</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Person</CategorialMeaning>
+				<Synonym>cha ông</Synonym>
+			</LogicalConstraint>
+			<def>những người thuộc các thế hệ trước, trong quan hệ với những người thuộc các thế hệ sau [nói tổng quát]</def>
+			<exam>tiếp bước ông cha ~ phát huy truyền thống của ông cha</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ông công</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>SupernaturalBeing</CategorialMeaning>
+				<Synonym>ông địa, thổ công, thổ địa, thổ thần</Synonym>
+			</LogicalConstraint>
+			<def>xem <i>thổ công</i>
+			</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ông địa</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>SupernaturalBeing</CategorialMeaning>
+				<Synonym>ông công, thổ công, thổ địa, thổ thần</Synonym>
+			</LogicalConstraint>
+			<def>nhân vật thấp béo, bụng phệ, mặt tròn, tay cầm quạt, trong đám múa sư tử, múa lân</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ông già</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+			</LogicalConstraint>
+			<def>người đàn ông đã cao tuổi; thường dùng để chỉ cha mình hoặc người thuộc bậc cha mình trong cách nói thân mật</def>
+			<exam>ông già tôi hiền lắm!</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ông hoàng</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+			</LogicalConstraint>
+			<def>hoàng tử, hoàng thân; thường dùng để ví người giàu sang, sung sướng</def>
+			<exam>ông hoàng, bà chúa ~ sướng như ông hoàng</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ông mãnh</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>người đàn ông hay đứa con trai láu lỉnh, tinh quái [dùng để gọi đùa hoặc làm tiếng rủa mắng]</def>
+			<exam>nghịch vừa thôi, ông mãnh!</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ông ổng</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ao</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Sound</CategorialMeaning>
+			</LogicalConstraint>
+			<def>từ gợi tả tiếng chó sủa hay tiếng nói tuôn ra thành chuỗi to, trầm, nghe khó chịu</def>
+			<exam>chó sủa ông ổng ~ hát ông ổng</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ông phệnh</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Plaything</CategorialMeaning>
+			</LogicalConstraint>
+			<def>đồ chơi trẻ con có hình một người béo phệ ngồi để hở bụng to phình, thường làm bằng sành, sứ hoặc gỗ</def>
+			<exam>ngồi như ông phệnh</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ông táo</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>SupernaturalBeing</CategorialMeaning>
+				<Synonym>táo quân</Synonym>
+			</LogicalConstraint>
+			<def>thần cai quản việc bếp núc, theo tín ngưỡng dân gian</def>
+			<exam>cúng ông táo</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ông tổ</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Person</CategorialMeaning>
+			</LogicalConstraint>
+			<def>người sinh ra, lập ra một dòng họ</def>
+			<exam>ông tổ họ Nguyễn</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ông tổ</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Person</CategorialMeaning>
+			</LogicalConstraint>
+			<def>người đã sáng lập ra, gây dựng ra một nghề gì</def>
+			<exam>ông tổ nghề dệt</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ông từ</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Person</CategorialMeaning>
+			</LogicalConstraint>
+			<def>người trông coi đền, miếu</def>
+			<exam>lừ đừ như ông từ vào đền (tng)</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ông vải</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Ng</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Person</CategorialMeaning>
+			</LogicalConstraint>
+			<def>ông bà, tổ tiên</def>
+			<exam>bàn thờ ông vải</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ông xã</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Person</CategorialMeaning>
+			</LogicalConstraint>
+			<def>từ dùng để gọi người chồng một cách thân mật, đùa vui</def>
+			<exam>ông xã nhà tôi ~ ông xã đã về đó hả?</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ông xanh</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+			</LogicalConstraint>
+			<def>trời, ông trời</def>
+			<exam>"Sống lâu nghe lắm chuyện kì, Trách mình thôi chứ trách gì ông xanh." (Cdao)</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ồng ộc</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ao</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Sound</CategorialMeaning>
+			</LogicalConstraint>
+			<def>từ mô phỏng tiếng chất lỏng tuôn mạnh, chảy dồn mạnh</def>
+			<exam>nôn ra ồng ộc ~ nước xối ồng ộc từ trên máng xuống đất</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ống</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+			<Before>Nc: cái, chiếc</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+			</LogicalConstraint>
+			<def>vật rỗng, hình trụ dài</def>
+			<exam>ống máng ~ ống thoát nước ~ ống giang</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ống bô</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái, chiếc</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>ArtifactPart</CategorialMeaning>
+				<Synonym>ống xả</Synonym>
+			</LogicalConstraint>
+			<def>xem <i>ống xả</i>
+			</def>
+			<exam>thay ống bô</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ống bơ</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái, chiếc</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Things</CategorialMeaning>
+			</LogicalConstraint>
+			<def>vỏ đồ hộp nói chung</def>
+			<exam>nhặt ống bơ</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ống chân</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái, chiếc</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>BodyPart</CategorialMeaning>
+				<Synonym>cẳng chân, ống quyển</Synonym>
+			</LogicalConstraint>
+			<def>phần của chi dưới từ đầu gối đến cổ chân</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ống dòm</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Tool</CategorialMeaning>
+				<Synonym>ống nhòm</Synonym>
+			</LogicalConstraint>
+			<def>xem <i>ống nhòm</i>
+			</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ống khói</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Furniture</CategorialMeaning>
+			</LogicalConstraint>
+			<def>ống để dẫn cho khói, bụi thoát lên cao</def>
+			<exam>ống khói nhà máy</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ống kính</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái, chiếc</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>ArtifactPart</CategorialMeaning>
+			</LogicalConstraint>
+			<def>hệ thống thấu kính được lắp ghép thành hình ống, dùng để thu hình ảnh của vật vào phim hoặc để chiếu phim lên màn ảnh</def>
+			<exam>ống kính máy quay phim</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ống nghe</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái, chiếc</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>ArtifactPart</CategorialMeaning>
+			</LogicalConstraint>
+			<def>bộ phận biến đổi dao động điện thành dao động âm để phát thành âm thanh nghe được</def>
+			<exam>ống nghe máy điện thoại</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ống nghe</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Tool</CategorialMeaning>
+			</LogicalConstraint>
+			<def>dụng cụ y tế gồm có một ống dẫn âm, dùng để nghe tiếng động phát ra trong cơ thể</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ống nghiệm</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Tool</CategorialMeaning>
+				<Synonym>ống thử</Synonym>
+			</LogicalConstraint>
+			<def>ống thuỷ tinh hình trụ có đáy, dùng để thử phản ứng hoá học</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ống nhòm</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Tool</CategorialMeaning>
+				<Synonym>ống dòm</Synonym>
+			</LogicalConstraint>
+			<def>dụng cụ quang học dùng để quan sát những vật ở xa</def>
+			<exam>quan sát bằng ống nhòm</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ống nhổ</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Tool</CategorialMeaning>
+				<Synonym>ống phóng</Synonym>
+			</LogicalConstraint>
+			<def>đồ đựng lòng sâu, miệng rộng, dùng để chứa các chất thải nhổ ra</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ống nói</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái, chiếc</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>ArtifactPart</CategorialMeaning>
+			</LogicalConstraint>
+			<def>bộ phận chuyển dao động âm thành dao động điện</def>
+			<exam>ống nói điện thoại ~ nhấc ống nói</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ống phóng</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Tool</CategorialMeaning>
+			</LogicalConstraint>
+			<def>ống nhổ</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ống quần</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái, chiếc</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>ArtifactPart</CategorialMeaning>
+			</LogicalConstraint>
+			<def>phần của quần che chi dưới</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ống quyển</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái, chiếc</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>BodyPart</CategorialMeaning>
+			</LogicalConstraint>
+			<def>ống chân, cẳng chân</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ống tay áo</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái, chiếc</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>ArtifactPart</CategorialMeaning>
+				<Synonym>tay áo</Synonym>
+			</LogicalConstraint>
+			<def>xem <i>tay áo</i>
+			</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ống tiêm</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Tool</CategorialMeaning>
+			</LogicalConstraint>
+			<def>ống bằng thuỷ tinh hoặc nhựa, đầu có kim rỗng, dùng để tiêm thuốc nước vào cơ thể</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ống xả</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái, chiếc</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>ArtifactPart</CategorialMeaning>
+				<Synonym>ống bô</Synonym>
+			</LogicalConstraint>
+			<def>bộ phận bằng kim loại, hình ống dài được nối với buồng đốt của động cơ để đưa khí thải ra ngoài và giảm tiếng ồn</def>
+			<exam>thủng ống xả</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ốp</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vt</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Dob+Obj"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Dob"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Obj"/>
+				<feat att="syntacticConstituent" val="PP"/>
+			</SyntacticArgument>
+			<Before>R: đang</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Act</CategorialMeaning>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Agt"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Dob"/>
+					<feat att="semanticRole" val="Theme"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Obj"/>
+					<feat att="semanticRole" val="Lo"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>làm cho áp sát và gắn chặt vào bề mặt một vật khác, làm thành thêm một lớp bên ngoài</def>
+			<exam>họ ốp đá vào tường ~ công nhân ốp vào tường những viên gạch trắng</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ốp</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>kèm sát bên cạnh để đốc thúc</def>
+			<exam>bị ốp về đồn</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ốp lát</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>lát vật liệu xây dựng như gạch, đá, gỗ, v.v. trên bề mặt</def>
+			<exam>kĩ thuật ốp lát nền</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ốp lết</HeadWord>
+		<Morphology>
+			<WordType>loan word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Dish</CategorialMeaning>
+			</LogicalConstraint>
+			<def>món ăn làm bằng trứng để nguyên lòng trắng, lòng đỏ, rán chín tới</def>
+			<exam>bánh mì ốp lết (bánh mì ăn với trứng ốp lết)</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ộp oạp</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ao</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Sound</CategorialMeaning>
+				<Synonym>ồm ộp</Synonym>
+			</LogicalConstraint>
+			<def>từ mô phỏng tiếng ếch nhái kêu</def>
+			<exam>ếch nhái kêu ộp oạp</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ộp oạp</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ao</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Sound</CategorialMeaning>
+			</LogicalConstraint>
+			<def>từ mô phỏng tiếng bước chân lội dưới bùn nước hoặc tiếng nước vỗ nhẹ vào bờ</def>
+			<exam>tiếng chân lội ộp oạp dưới ruộng ~ sóng vỗ ộp oạp vào bờ</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ôsin</HeadWord>
+		<Morphology>
+			<WordType>loan word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Person</CategorialMeaning>
+			</LogicalConstraint>
+			<def>tên nhân vật chính trong bộ phim cùng tên của Nhật Bản; dùng để chỉ người phụ nữ giúp việc trong gia đình</def>
+			<exam>thuê ôsin ~ làm ôsin</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ôxy</HeadWord>
+		<Morphology>
+			<WordType>loan word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: làn, luồng</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Gas</CategorialMeaning>
+				<Synonym>oxygen</Synonym>
+			</LogicalConstraint>
+			<def>xem <i>oxygen</i>
+			</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ôxy già</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: giọt</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Liquid</CategorialMeaning>
+			</LogicalConstraint>
+			<def>chất hoá học có khả năng ôxy hoá, thường được dùng để sát trùng, tẩy vết bẩn</def>
+			<exam>dùng nước ôxy già để rửa vết thương</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ôxy hoá</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Devour</CategorialMeaning>
+			</LogicalConstraint>
+			<def>[quá trình một chất] hoá hợp với oxygen, biến đổi thành oxide</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ơ</HeadWord>
+		<Morphology>
+			<WordType>symbol</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>con chữ thứ mười chín của bảng chữ cái chữ quốc ngữ</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ơ</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cái</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Furniture</CategorialMeaning>
+			</LogicalConstraint>
+			<def>nồi đất nhỏ dùng để kho nấu thức ăn</def>
+			<exam>một ơ cá kho</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ơ</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>O</Category>
+			<SubCategory>O</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<Synonym>ô</Synonym>
+			</LogicalConstraint>
+			<def>tiếng thốt ra biểu lộ sự ngạc nhiên</def>
+			<exam>ơ, sao lại thế? ~ ơ... thằng này láo nhỉ!</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ơ hay</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>O</Category>
+			<SubCategory>O</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>như <i>ô hay</i>
+			</def>
+			<exam>ơ hay cái con bé này, ai bảo mày làm thế?</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ơ kìa</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>O</Category>
+			<SubCategory>O</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>như <i>ô kìa</i>
+			</def>
+			<exam>ơ kìa, đi đâu đấy!</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ờ</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>O</Category>
+			<SubCategory>O</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>tiếng thốt ra, biểu lộ sự đồng tình hoặc sực nhớ ra điều gì</def>
+			<exam>ờ, cứ để đấy cho tôi! ~ ờ, con bé dạo này xinh thật!</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ở</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vs</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Obj"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Obj"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<Before>R: đang, vẫn, không, chẳng</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Exist</CategorialMeaning>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Exp"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Obj"/>
+					<feat att="semanticRole" val="Lo"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>sống đời sống riêng thường ngày tại một nơi, một chỗ nào đó</def>
+			<exam>gia đình họ ở nhà số 4 ~ hai người ở cùng phố ~ bố mẹ đều ở quê</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ở</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vs</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Obj"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Obj"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<Before>R: đang, vẫn, không, chẳng</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Exist</CategorialMeaning>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Exp"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Obj"/>
+					<feat att="semanticRole" val="Lo"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>có mặt trong một thời gian hoặc một thời điểm nhất định, tại một nơi, một chỗ nào đó</def>
+			<exam>bây giờ tôi đang ở cơ quan ~ anh ấy đang ở nhà người bạn</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ở</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vs</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Obj"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Obj"/>
+				<feat att="syntacticConstituent" val="AP"/>
+			</SyntacticArgument>
+		</Syntactic>
+		<Semantic>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Exp"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Obj"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>sinh hoạt thường ngày trong những điều kiện nào đó</def>
+			<exam>bà ấy ở bẩn quá</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ở</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vu</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Obj"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Obj"/>
+				<feat att="syntacticConstituent" val="AP"/>
+			</SyntacticArgument>
+		</Syntactic>
+		<Semantic>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Exp"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Obj"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>đối xử trong đời sống hằng ngày</def>
+			<exam>bà ta ở bạc lắm</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ở</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>làm thuê dưới hình thức ăn ở luôn trong nhà chủ, làm các công việc phục dịch thường ngày</def>
+			<exam>đi ở ~ thằng ở ~ thân phận đứa ở</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ở</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>E</Category>
+			<SubCategory>E</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>từ biểu thị điều sắp nêu ra là nơi, chỗ, khoảng thời gian sự vật hay sự việc được nói đến tồn tại hay diễn ra</def>
+			<exam>đi dự hội nghị ở trên tỉnh ~ xem phim ở rạp ~ đau ở vùng thắt lưng</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ở</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>E</Category>
+			<SubCategory>E</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>từ biểu thị điều sắp nêu ra là cái hướng vào đó của điều vừa nói đến [thường là một hoạt động tâm lí, tình cảm]</def>
+			<exam>tin tưởng ở tương lai ~ hi vọng ở thế hệ trẻ</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ở cữ</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Activity</CategorialMeaning>
+				<Synonym>nằm bếp, nằm ổ</Synonym>
+			</LogicalConstraint>
+			<def>[phụ nữ] sinh đẻ [nói về khoảng thời gian nghỉ ngơi, tĩnh dưỡng với những cách thức kiêng kị nhất định khi sinh con]</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ở đậu</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vs</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Obj"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Obj"/>
+				<feat att="syntacticConstituent" val="PP"/>
+			</SyntacticArgument>
+			<Before>R: đang</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Activity</CategorialMeaning>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Exp"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Obj"/>
+					<feat att="semanticRole" val="Lo"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>ở nhờ nhà người khác, có tính chất tạm thời</def>
+			<exam>họ ở đậu nhà người quen</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ở đợ</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vs</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Obj"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Obj"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<Before>R: đang</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>PresentAndReceive</CategorialMeaning>
+				<Synonym>ở mướn</Synonym>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Exp"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Obj"/>
+					<feat att="semanticRole" val="Ben"/>
+					<feat att="categorialMeaning" val="Person"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>đi ở có thời hạn và lấy công trước</def>
+			<exam>chị đã ở đợ cho một nhà giàu có</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ở goá</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vs</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Obj"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Obj"/>
+				<feat att="syntacticConstituent" val="NP, VP, AP"/>
+			</SyntacticArgument>
+			<Before>R: đã, đang, vẫn</Before>
+		</Syntactic>
+		<Semantic>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Agt"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Obj"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>không lấy chồng [hoặc vợ] khác, sau khi vợ [hoặc chồng] chết, tuy tuổi đang còn trẻ, và sống như vậy cho đến cuối đời</def>
+			<exam>bà ở goá mấy chục năm nay ~ ở goá nuôi con</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ở không</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<Synonym>ngồi không</Synonym>
+			</LogicalConstraint>
+			<def>không làm việc gì cả vì không có việc để làm hoặc vì không muốn làm</def>
+			<exam>thất nghiệp, ở không mấy tháng</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ở lổ</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>ở truồng</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ở mướn</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vs</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Obj"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Obj"/>
+				<feat att="syntacticConstituent" val="NP, VP, AP"/>
+			</SyntacticArgument>
+			<Before>R: đang</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>PresentAndReceive</CategorialMeaning>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Agt"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Obj"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>ở đợ</def>
+			<exam>ở mướn cho một nhà giàu</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ở rể</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vs</SubCategory>
+			<SubcategorizationFrame val="Sub+V"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<Before>R: đang</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Activity</CategorialMeaning>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Exp"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>ở gửi rể</def>
+			<exam>anh ấy sẽ ở rể</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ở riêng</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vs</SubCategory>
+			<SubcategorizationFrame val="Sub+V"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<Before>R: đã, đang</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Exist</CategorialMeaning>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Exp"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>lập gia đình riêng, không còn ở chung với cha mẹ nữa</def>
+			<exam>con cái đều đã ở riêng</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ở trần</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vs</SubCategory>
+			<SubcategorizationFrame val="Sub+V"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<Before>R: cứ</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Activity</CategorialMeaning>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Exp"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>không mặc áo, để hở nửa mình trên</def>
+			<exam>ông ấy đang ở trần</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ở truồng</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vs</SubCategory>
+			<SubcategorizationFrame val="Sub+V"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<Before>R: cứ</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Activity</CategorialMeaning>
+				<Synonym>ở lổ</Synonym>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Exp"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>không mặc quần hoặc váy, để hở nửa mình dưới</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ở vậy</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vs</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Obj"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Obj"/>
+				<feat att="syntacticConstituent" val="VP"/>
+			</SyntacticArgument>
+			<Before>R: đã, vẫn, cứ</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Activity</CategorialMeaning>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Exp"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Obj"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>cứ sống như vậy, độc thân hoặc không lấy vợ khác, chồng khác</def>
+			<exam>bà ở vậy nuôi ba con ~ ông ấy cứ ở vậy, chẳng thèm lấy ai</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ở vú</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vs</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Obj"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Obj"/>
+				<feat att="syntacticConstituent" val="NP, VP, AP"/>
+			</SyntacticArgument>
+			<Before>R: đã, từng, đang</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>PresentAndReceive</CategorialMeaning>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Agt"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Obj"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>đi ở làm vú em</def>
+			<exam>ở vú cho nhà chị họ</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ớ</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vs</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Obj"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Obj"/>
+				<feat att="syntacticConstituent" val="NP, VP, AP"/>
+			</SyntacticArgument>
+			<Before>R: cứ</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Emotion</CategorialMeaning>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Agt"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Obj"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>như <i>ngớ</i>
+			</def>
+			<exam>anh ấy cứ ớ người ra ~ ớ ra, chẳng hiểu gì</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ớ</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>O</Category>
+			<SubCategory>O</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>tiếng gọi dùng để gọi người ở xa, thường là không quen</def>
+			<exam>"Nửa đêm trăng tắt sao loè, Ngoài ngõ lắm đá, coi què, ớ anh!" (Cdao)</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ợ</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>tống khí hoặc những chất gì đó từ dạ dày lên miệng</def>
+			<exam>ợ chua ~ bò ợ cỏ lên nhai lại</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ơi</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>O</Category>
+			<SubCategory>O</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>tiếng gọi dùng để gọi một cách thân mật, thân thiết</def>
+			<exam>mẹ ơi! ~ "Thuyền ơi có nhớ bến chăng, Bến thì một dạ khăng khăng đợi thuyền." (Cdao)</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ơi</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>O</Category>
+			<SubCategory>O</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>tiếng đáp dùng để đáp lại tiếng gọi của người ngang hàng hoặc người dưới</def>
+			<exam>(- chị ơi!) - ơi! đợi chị một tí!</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ơi</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>O</Category>
+			<SubCategory>O</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>tiếng gọi dùng để kêu với ý than vãn</def>
+			<exam>"Trời ơi có thấu tình chăng! Bước sang mười sáu ông trăng gần già." (Cdao)</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ơi là</HeadWord>
+		<Morphology>
+			<WordType>multiword expression</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>X</Category>
+			<SubCategory>X</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>tổ hợp biểu thị một cảm xúc mạnh mẽ của người nói, do chịu tác động trực tiếp của một tính chất nào đó ở mức độ đặc biệt cao</def>
+			<exam>xinh ơi là xinh! ~ "Ăn trầu thì bỏ quên vôi, Ăn cau bỏ hạt nàng ơi là nàng!" (Cdao)</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ơi ới</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ao</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Sound</CategorialMeaning>
+				<Synonym>í ới</Synonym>
+			</LogicalConstraint>
+			<def>từ gợi tả tiếng nhiều người gọi nhau to và liên tiếp từ nơi khác vọng lại</def>
+			<exam>có tiếng gọi ơi ới ngoài ngõ ~ tiếng rao hàng ơi ới</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ời ời</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ao</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Sound</CategorialMeaning>
+			</LogicalConstraint>
+			<def>từ gợi tả tiếng gọi to và liên tiếp, kéo dài, nghe khó chịu</def>
+			<exam>"Thằng Cuội ngồi gốc cây đa, Để trâu ăn lúa gọi cha ời ời." (Cdao)</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ời ợi</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ao</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Sound</CategorialMeaning>
+			</LogicalConstraint>
+			<def>từ gợi tả tiếng ru hoặc tiếng rao kéo dài giọng và liên tiếp</def>
+			<exam>tiếng rao hàng ời ợi ~ ru con ời ợi</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ới</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>O</Category>
+			<SubCategory>O</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>tiếng dùng để kêu hoặc gọi với ý than vãn, nhắn nhủ</def>
+			<exam>"Ới người đội nón chung quai, Chung thầy chung mẹ ghé vai chung tình." (Cdao)</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ới</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>gọi, báo cho biết</def>
+			<exam>ới nhau đi ~ có gì thì ới tôi một tiếng</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ỡm ờ</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+				<Synonym>ẫm ờ</Synonym>
+			</LogicalConstraint>
+			<def>ra vẻ ngơ ngẩn như không biết gì cả</def>
+			<exam>biết rồi còn cứ ỡm ờ!</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ỡm ờ</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+			<Before>R: rất</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+				<Synonym>ẫm ờ</Synonym>
+			</LogicalConstraint>
+			<def>nửa đùa nửa thật, có ý trêu cợt [thường nói về cách nói năng]</def>
+			<exam>trả lời ỡm ờ ~ ăn nói ỡm ờ</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ớm</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>A</Category>
+			<SubCategory>Ap</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Quality</CategorialMeaning>
+			</LogicalConstraint>
+			<def>cớm</def>
+			<exam>lúa bị ớm nắng</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ơn</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+			</LogicalConstraint>
+			<def>điều làm cho người nào đó, mang lại lợi ích, sự tốt đẹp, được bản thân người ấy nhận thức như là cần phải đền đáp</def>
+			<exam>nhớ ơn ~ ghi ơn ~ "Làm ơn ắt hẳn nên ơn, Trời nào phụ kẻ có nhơn bao giờ." (Cdao)</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ơn huệ</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+				<Synonym>ân huệ</Synonym>
+			</LogicalConstraint>
+			<def>xem <i>ân huệ</i>
+			</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ơn nghĩa</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Na</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Concept</CategorialMeaning>
+				<Synonym>ân nghĩa, ơn nghĩa</Synonym>
+			</LogicalConstraint>
+			<def>xem <i>ân nghĩa</i>
+			</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ơn ớn</HeadWord>
+		<Morphology>
+			<WordType>reduplicative word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>như <i>ớn</i> [nhưng ý mức độ ít hơn]</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ớn</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vu</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<def>có cảm giác lạnh từ trong người lạnh ra và ghê ghê người</def>
+			<exam>lưỡi đao sáng loáng, trông mà ớn xương sống</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ớn</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vt</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Dob"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Dob"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<Before>R: cực kì, quá, rất</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Emotion</CategorialMeaning>
+				<Synonym>ngán</Synonym>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Agt"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Dob"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>chán đến phát ngấy</def>
+			<exam>tôi ớn món xào đó quá rồi! ~ tôi ớn cái cảnh sống này lắm rồi</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ớn</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>V</Category>
+			<SubCategory>Vt</SubCategory>
+			<SubcategorizationFrame val="Sub+V+Dob"/>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Sub"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+			<SyntacticArgument>
+				<feat att="syntacticFunction" val="Dob"/>
+				<feat att="syntacticConstituent" val="NP"/>
+			</SyntacticArgument>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Emotion</CategorialMeaning>
+				<Synonym>ngán</Synonym>
+			</LogicalConstraint>
+			<SemanticConstraint>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Sub"/>
+					<feat att="semanticRole" val="Agt"/>
+					<feat att="subjectMeaning" val="Person"/>
+				</SynSemArgMap>
+				<SynSemArgMap>
+					<feat att="syntacticFunction" val="Dob"/>
+				</SynSemArgMap>
+			</SemanticConstraint>
+			<def>sợ</def>
+			<exam>ai cũng ớn thằng cha đó!</exam>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ớt</HeadWord>
+		<Morphology>
+			<WordType>simple word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+			<Before>Nc: cây</Before>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Herb</CategorialMeaning>
+			</LogicalConstraint>
+			<def>cây nhỏ cùng họ với cà, hoa trắng, quả chín có màu đỏ hay vàng, vị cay, dùng làm gia vị</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ớt bị</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Seasoning</CategorialMeaning>
+			</LogicalConstraint>
+			<def>ớt quả to, màu đỏ hay vàng</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ớt cà chua</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Seasoning</CategorialMeaning>
+			</LogicalConstraint>
+			<def>ớt quả tròn, trông giống quả cà chua, ít cay</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ớt chỉ thiên</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Seasoning</CategorialMeaning>
+				<Synonym>ớt hiểm</Synonym>
+			</LogicalConstraint>
+			<def>ớt quả nhỏ, mọc chỉ thẳng lên, vị rất cay</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ớt hiểm</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Seasoning</CategorialMeaning>
+			</LogicalConstraint>
+			<def>ớt chỉ thiên</def>
+		</Semantic>
+	</Entry>
+	<Entry>
+		<HeadWord>ớt ngọt</HeadWord>
+		<Morphology>
+			<WordType>compound word</WordType>
+		</Morphology>
+		<Syntactic>
+			<Category>N</Category>
+			<SubCategory>Nt</SubCategory>
+		</Syntactic>
+		<Semantic>
+			<LogicalConstraint>
+				<CategorialMeaning>Seasoning</CategorialMeaning>
+			</LogicalConstraint>
+			<def>ớt quả to, màu đỏ hoặc xanh lục, không cay, thường dùng để xào</def>
+		</Semantic>
+	</Entry>
+</Document>
