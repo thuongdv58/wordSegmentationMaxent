@@ -17,6 +17,8 @@ def sentenceAtomSegmentation(sentence):
     Atom unit can be morpho-syllable, sign, foreign string,  symbol, abbreviation, factorids"""
     return sentence
 
+
+#may not use ???
 def properNameRecognition():
     """recognizing foreign word, person name, organization name,location,factorids ..."""
     pass
