@@ -23,17 +23,25 @@ def readXMLNormalWordDictionary():
                 word = word+u''
             if word != wordList[-1]:
                 wordList.append(word)
-
     return wordList
 
 def readGeographyDictionary():
     """ geographic place dictionary sumarized from NGA GEOnet Names Server """
-    data=codecs.open('dictionary/Vietnamese_Geographic_name.csv', 'r', 'utf-8').read()
+    data=codecs.open('dictionary/Geographic_dictionary', 'r', 'utf-8').read()
     return data.split('\n')
 
 def readCsvNormalWordDictionary():
-    content = codecs.open('dictionary/normal_word_dictionary/dictionary.csv', 'r', 'utf-8').read()
+    content = codecs.open('dictionary/dictionary.csv', 'r', 'utf-8').read()
     return content.split(',')
+
+
+def readTrainSetDictionary():
+    content = codecs.open('dictionary/trainingSetDict', 'r', 'utf-8').read()
+    return content.split('\n')
+    
+def readSignDictionary():
+    content = codecs.open('dictionary/signDictionary', 'r', 'utf-8').read()
+    return content.split('\n')
 
 # dictionary= readXMLdictionary()
 # content= u','.join(dictionary)

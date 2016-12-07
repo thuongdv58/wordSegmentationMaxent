@@ -1,22 +1,21 @@
 # -*- coding: utf-8 -*-
 import string
+from preprocessingSentence import dateFormatMatch,vietnameseDecimalMatch
 
-
-def maximumMatchingSegment(string, wset, caseNumber):
+def maximumMatchingSegment(morphoSyllableList, wset, signSet,foreigns, caseNumber):
     """Segments a string into words prefering longer words givens
     a dictionary wset."""
     # Sort word set in decreasing string order
+    token=''
     wset.sort(key=len, reverse=True)
-    results = tokenize(string, wset, "", caseNumber)
-    if not results:
-        raise Exception("No possible segmentation!")
+    sentence= u' '.join(morphoSyllableList)
+    results = tokenize(sentence, wset, signSet, foreigns, token, caseNumber)
     for result in results:
         result.pop()  # Remove the empty string token
         result.reverse()  # Put the list into correct order
     return results
 
-
-def tokenize(string, wset, token, caseNumber):
+def tokenize(string, wset, signSet, foreigns, token, caseNumber):
     """Returns either [] if the string can't be segmented by 
     the current wset or a list of words that segment the string
     in reverse order.
@@ -28,15 +27,26 @@ def tokenize(string, wset, token, caseNumber):
         string = string[1:]
     # Find all possible prefixes
     possibleCases = []
-    for pref in wset:
-        if string.startswith(pref+' ') or string == pref:
-            reses = tokenize(
-                string.replace(pref, '', 1), wset, pref, caseNumber-len(possibleCases))
-            if reses:
-                for res in reses:
-                    res.append(token)
-                    possibleCases.append(res)
-            if len(possibleCases) >= caseNumber:
-                break
+    firstWord = string.split(' ')[0]
+    if firstWord in signSet or dateFormatMatch(firstWord) or vietnameseDecimalMatch(firstWord):
+        reses = tokenize(
+                string.replace(firstWord, '', 1), wset, signSet, foreigns, firstWord, caseNumber-len(possibleCases))
+        if reses:
+            for res in reses:
+                res.append(token)
+                possibleCases.append(res)
+        if len(possibleCases) >= caseNumber:
+            return possibleCases
+    else:
+        for pref in wset:
+            if string.startswith(pref+' ') or string == pref:
+                reses = tokenize(
+                    string.replace(pref, '', 1), wset, signSet, foreigns, pref, caseNumber-len(possibleCases))
+                if reses:
+                    for res in reses:
+                        res.append(token)
+                        possibleCases.append(res)
+                if len(possibleCases) >= caseNumber:
+                    break
     # Not possible
     return possibleCases
