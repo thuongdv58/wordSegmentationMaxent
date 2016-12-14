@@ -25,6 +25,7 @@ def readXMLNormalWordDictionary():
                 wordList.append(word)
     return wordList
 
+
 def readGeographyDictionary():
     """ geographic place dictionary sumarized from NGA GEOnet Names Server """
     data=codecs.open('dictionary/Geographic_dictionary', 'r', 'utf-8').read()

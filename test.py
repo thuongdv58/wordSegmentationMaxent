@@ -3,14 +3,17 @@ from segmentation import segmentation
 import sys
 
 def test():
-	if len(sys.argv) == 3:
-		print 'shit'
-	else:
-		print segmentation(['Quan hệ tình dục sớm , mang thai ngoài ý muốn'])
-
+    if len(sys.argv) == 3:
+        print 'shit'
+    else:
+        segments= segmentation(['Học sinh tiểu học với thể chất và trí tuệ còn rất non nớt mà sớm bị cài đặt game online vào trí não ( có chiến thuật , có tranh đua , có thu phí ) thì sẽ có nhiều tác hại về lâu về dài , phụ huynh này nói và bày tỏ mong muốn Bộ Giáo dục'])
+        print len(segments[0])
+        for segment in segments:
+            for seg in segment:
+                print u'**'.join([token.decode('utf-8') for token in segment])
 if __name__ == "__main__":
-	# print sys.argv
-	test()
+    # print sys.argv
+    test()
 # import argparse
 
 # parser = argparse.ArgumentParser(description='Process some integers.')

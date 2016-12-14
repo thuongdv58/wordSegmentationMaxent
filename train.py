@@ -14,7 +14,7 @@ import preprocessingSentence
 
 def readTrainningData():
     globalSentenceList = []
-    fileList = glob.glob('trainingDataSet/*.seg')
+    fileList = glob.glob('trainingDataSet/segmentedSet/*.seg')
     for file in fileList:
         data = codecs.open(file, 'r', 'utf-8').read()
         sentenceList = data.split('\n')
@@ -23,7 +23,7 @@ def readTrainningData():
         globalSentenceList += sentenceList[1:]
     file = open('trainingDataSet/trainingData.csv',
                 'w').write(u'\n'.join(globalSentenceList))
-    return None
+    return globalSentenceList
 
 
 def csvTrainingFile():
