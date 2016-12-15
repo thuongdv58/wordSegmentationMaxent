@@ -12,8 +12,6 @@ def sentenceProcessing(sentence,signdict):
     spliter=True
     for phrase in phrases:
         for Atom in sentenceAtomSegmentation(phrase,signdict):
-            if Atom == '' or Atom == ' ':
-                print sentenceAtomSegmentation(phrase,signdict)
             if Atom in signdict or vietnameseDecimalMatch(phrase) or dateFormatMatch(phrase) or URLFormatMatch(phrase):
                 atomSentence.append(Atom)
                 spliter=True
@@ -34,7 +32,7 @@ def spellingStandardization(sentence):
 def sentenceAtomSegmentation(phrase,signdict):
     """ segment sentence into atom unit which cannot be segmented into smaller unit.
     Atom unit can be morpho-syllable, sign, foreign string,  symbol, abbreviation, factorids"""
-    if re.match("^[ạảãàáâậầấẩẫăắằặẳẵóòọõỏôộổỗồốơờớợởỡéèẻẹẽêếềệểễúùụủũưựữửừứíìịỉĩýỳỷỵỹđa-zA-Z0-9_]*$", phrase):
+    if re.match("^[ạảãàáâậầấẩẫăắằặẳẵóòọõỏôộổỗồốơờớợởỡéèẻẹẽêếềệểễúùụủũưựữửừứíìịỉĩýỳỷỵỹđa-zA-Z]*$", phrase):
         return [phrase]
     atomPhrase=[]
     tail=''
@@ -80,3 +78,25 @@ def URLFormatMatch(value):
         return True
     except Exception:
         return False
+
+def Upper(s):
+    if type(s) == type(u""):
+       return s.upper()
+    return unicode(s, "utf8").upper().encode("utf8")
+
+def Lower(s):
+    if type(s) == type(u""):
+       return s.lower()
+    return unicode(s, "utf8").lower().encode("utf8")
+
+def isUpper(s):
+    try:
+        return unicode(s, "utf8").isupper()
+    except Exception:
+        return s.isupper()
+
+def isLower(s):
+    try:
+        return unicode(s, "utf8").islower()
+    except Exception:
+        return s.islower()

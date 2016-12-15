@@ -9,8 +9,11 @@ from maximumMatching import maximumMatchingGraph
 
 def segmentation(sentenceList):
     """ segment a bunch of sentences """
-    dictionary = readTrainSetDictionary()
-    dictionary.sort(key=len, reverse=True)
+    dictionary = readWordCountDictionary()
+    # print dictionary[1]
+    # dictionary[1].sort()
+    # dictionary[2].sort()
+    # dictionary[3].sort()
     signdict = readSignDictionary()
     # foreigns = readGeographyDictionary()
     foreigns=[]

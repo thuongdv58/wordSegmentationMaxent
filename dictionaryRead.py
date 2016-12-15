@@ -25,7 +25,6 @@ def readXMLNormalWordDictionary():
                 wordList.append(word)
     return wordList
 
-
 def readGeographyDictionary():
     """ geographic place dictionary sumarized from NGA GEOnet Names Server """
     data=codecs.open('dictionary/Geographic_dictionary', 'r', 'utf-8').read()
@@ -39,7 +38,19 @@ def readCsvNormalWordDictionary():
 def readTrainSetDictionary():
     content = codecs.open('dictionary/trainingSetDict', 'r', 'utf-8').read()
     return content.split('\n')
-    
+def readWordCountDictionary():
+    dicts={}
+    content = codecs.open('dictionary/oneWordDict.csv', 'r', 'utf-8').read()
+    dicts[1]=content.split('\n')
+    content = codecs.open('dictionary/twoWordDict.csv', 'r', 'utf-8').read()
+    dicts[2]=content.split('\n')
+    content = codecs.open('dictionary/threeWordDict.csv', 'r', 'utf-8').read()
+    dicts[3]=content.split('\n')
+    content = codecs.open('dictionary/fourWordDict.csv', 'r', 'utf-8').read()
+    dicts[4]=content.split('\n')
+    content = codecs.open('dictionary/fiveWordDict.csv', 'r', 'utf-8').read()
+    dicts[5]=content.split('\n')
+    return dicts
 def readSignDictionary():
     content = codecs.open('dictionary/signDictionary', 'r', 'utf-8').read()
     return content.split('\n')
@@ -47,3 +58,5 @@ def readSignDictionary():
 # dictionary= readXMLdictionary()
 # content= u','.join(dictionary)
 # file= open('dictionary/dictionary.csv','w').write(content)
+
+# print readWordCountDictionary()[1]

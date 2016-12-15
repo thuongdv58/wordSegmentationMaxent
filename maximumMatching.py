@@ -3,7 +3,7 @@ import string
 import collections
 import math
 import re
-
+from preprocessingSentence import Lower,Upper,isLower,isUpper
 class Graph:
 
     ''' graph class inspired by https://gist.github.com/econchick/4666413
@@ -90,10 +90,20 @@ def maximumMatchingGraph(sentence, wset):
 
     foreignWordScore=[40,35,40,50,100]
     wordList = sentence.split(' ')
+    firstWord= None
     firstCapital=False
-    if re.match("^[A-Z]",wordList[0]) and re.match("^[a-z]",wordList[1]):
-        wordList[0]= wordList[0][0].lower()+wordList[0][1:]
-        firstCapital=True
+    if isUpper(wordList[0][0]): 
+        if isLower(wordList[1][0]):
+            wordList[0]= Lower(wordList[0][0])+wordList[0][1:]
+            firstCapital=True
+        else:
+            for index in range(1,len(wordList)):
+                if isLower(wordList[index][0]):
+                    break
+            if index >1:
+                firstWord=' '.join(wordList[0:index])
+                wordList=wordList[index:]
+
     wordList.append('end')  # last node
     sentenceLength = len(wordList)
     for wordIndex in range(sentenceLength):
@@ -101,15 +111,18 @@ def maximumMatchingGraph(sentence, wset):
     for i in range(sentenceLength):
         edgeRange = min(sentenceLength-i, 5)
         for edge in range(edgeRange):
-            if ' '.join(wordList[i:i+edge+1]) in wset:
+            if ' '.join(wordList[i:i+edge+1]) in wset[edge+1]:
                 G.add_edge(i, i+edge+1, score[edge])
             # else:
             #     G.add_edge(i, i+edge+1, score[edge])
     path=shortest_path(G, 0, sentenceLength-1)
     for i in range(len(path)-1):
         segmentedSentence.append(' '.join(wordList[path[i]:path[i+1]]))
+    if firstWord:
+        return [firstWord]+segmentedSentence
     if firstCapital:
-        segmentedSentence[0]=segmentedSentence[0][0].upper()+segmentedSentence[0][1:]
+        segmentedSentence[0]=Upper(segmentedSentence[0][0])+segmentedSentence[0][1:]
+
     return segmentedSentence
 
 def maximumMatchingSegment(sentence, wset, foreigns, caseNumber):
