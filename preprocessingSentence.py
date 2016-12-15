@@ -4,15 +4,27 @@ import re
 from dateutil.parser import parse
 from dictionaryRead import *
 
-def sentenceProcessing(sentence):
+def sentenceProcessing(sentence,signdict):
     """ return clear uniform processed sentence """
     sentence= spellingStandardization(sentence)
     atomSentence=[]
-    signdict = readSignDictionary()
     phrases= sentence.split(' ')
+    spliter=True
     for phrase in phrases:
-        atomSentence+=sentenceAtomSegmentation(phrase,signdict)
+        for Atom in sentenceAtomSegmentation(phrase,signdict):
+            if Atom == '' or Atom == ' ':
+                print sentenceAtomSegmentation(phrase,signdict)
+            if Atom in signdict or vietnameseDecimalMatch(phrase) or dateFormatMatch(phrase) or URLFormatMatch(phrase):
+                atomSentence.append(Atom)
+                spliter=True
+            else:
+                if spliter:
+                    atomSentence.append(Atom)
+                    spliter=False
+                else:
+                    atomSentence[-1]+=' '+Atom
     return atomSentence
+    
 def spellingStandardization(sentence):
     """ implement this if sentence from many nonuniform source.
     To standardize sentence to the unique form of spelling"""
@@ -22,12 +34,14 @@ def spellingStandardization(sentence):
 def sentenceAtomSegmentation(phrase,signdict):
     """ segment sentence into atom unit which cannot be segmented into smaller unit.
     Atom unit can be morpho-syllable, sign, foreign string,  symbol, abbreviation, factorids"""
+    if re.match("^[ạảãàáâậầấẩẫăắằặẳẵóòọõỏôộổỗồốơờớợởỡéèẻẹẽêếềệểễúùụủũưựữửừứíìịỉĩýỳỷỵỹđa-zA-Z0-9_]*$", phrase):
+        return [phrase]
     atomPhrase=[]
     tail=''
     if phrase[0] in signdict:
         atomPhrase.append(phrase[0])
         phrase=phrase[1:]
-    if phrase[-1] in signdict:
+    if phrase and phrase[-1] in signdict:
         tail=phrase[-1]
         phrase=phrase[:-1]
     if vietnameseDecimalMatch(phrase) or dateFormatMatch(phrase) or URLFormatMatch(phrase):
@@ -38,7 +52,7 @@ def sentenceAtomSegmentation(phrase,signdict):
         atomPhrase += phrase.split(' ')
     if tail:
         atomPhrase.append(tail)
-    return atomPhrase
+    return filter(None,atomPhrase)
 
 
 # may not use ???

@@ -6,11 +6,9 @@ def test():
     if len(sys.argv) == 3:
         print 'shit'
     else:
-        segments= segmentation(['Học sinh tiểu học với thể chất và trí tuệ còn rất non nớt mà sớm bị cài đặt game online vào trí não ( có chiến thuật , có tranh đua , có thu phí ) thì sẽ có nhiều tác hại về lâu về dài , phụ huynh này nói và bày tỏ mong muốn Bộ Giáo dục'])
-        print len(segments[0])
+        segments= segmentation(['Thể chất và trí tuệ còn rất non nớt mà sớm bị "cài đặt game" online vào trí não (có chiến thuật, có tranh đua, có thu phí) thì sẽ có nhiều tác hại về lâu về dài, phụ huynh này nói và bày tỏ mong muốn Bộ Giáo dục'])
         for segment in segments:
-            for seg in segment:
-                print u'**'.join([token.decode('utf-8') for token in segment])
+            print u'**'.join([token.decode('utf-8') for token in segment])
 if __name__ == "__main__":
     # print sys.argv
     test()
