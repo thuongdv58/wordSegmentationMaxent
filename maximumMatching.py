@@ -87,8 +87,6 @@ def maximumMatchingGraph(sentence, wset):
     segmentedSentence=[]
     G = Graph()
     score = [7, 4, 2.5, 1, 1]
-
-    foreignWordScore=[40,35,40,50,100]
     wordList = sentence.split(' ')
     firstWord= None
     firstCapital=False
@@ -114,7 +112,8 @@ def maximumMatchingGraph(sentence, wset):
             if ' '.join(wordList[i:i+edge+1]) in wset[edge+1]:
                 G.add_edge(i, i+edge+1, score[edge])
             # else:
-            #     G.add_edge(i, i+edge+1, score[edge])
+            #     if edge==0:
+            #         G.add_edge(i, i+1, 20)
     path=shortest_path(G, 0, sentenceLength-1)
     for i in range(len(path)-1):
         segmentedSentence.append(' '.join(wordList[path[i]:path[i+1]]))
