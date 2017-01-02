@@ -1,3 +1,0 @@
-[['Th\xe1\xba\xb1ng Ho\xc3\xa0ng', 'sdsf', 'fasdfsad', 'adsfasd', '\xc4\x83n']]
-['Th\xe1\xba\xb1ng Ho\xc3\xa0ng', 'sdsf', 'fasdfsad', 'adsfasd', '\xc4\x83n']
-Thằng Hoàng
